@@ -1,5 +1,3 @@
----
-
 🎯 **Task in Focus: Thought Leadership Articles**  
 ✍️ *Crafted for impact. Delivered with heart.*
 
