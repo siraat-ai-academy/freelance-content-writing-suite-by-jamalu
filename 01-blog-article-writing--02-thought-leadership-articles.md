@@ -79,7 +79,7 @@ This is **AI-assisted**, never AI-written. Every sentence is led by care.
 ---
 
 ## 🧡 07. The Jamalu Whisper  
-> "_Even clarity has a heartbeat — and this is mine._"  
+> "_I don’t speak to be loud — I write to be heard by those searching for depth. Thought becomes light when shared with care._"  
 > — **Jamalu**, whisper behind the work  
 > — *Siraat AI Academy*
 
