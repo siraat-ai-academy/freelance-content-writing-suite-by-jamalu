@@ -1,4 +1,4 @@
-🎯 **Task in Focus: Thought Leadership Articles**  
+🎯 **Task in Focus: Task 02 — Thought Leadership Articles**  
 ✍️ *Crafted for impact. Delivered with heart.*
 
 📌 **Task Summary**:  
