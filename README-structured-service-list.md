@@ -5,7 +5,7 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-## ✍️ [A] Blog & Article Writing Services
+## ✍️ [01] Blog & Article Writing Services
 
 [1] **SEO-Optimized Blog Posts**  
 [2] **Thought Leadership Articles**  
@@ -17,7 +17,7 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-## 📣 [B] Website Copywriting
+## 📣 [02] Website Copywriting
 
 [8] **Home Page Copy**  
 [9] **About Page Writing**  
@@ -28,7 +28,7 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-## 📲 [C] Social Media Content
+## 📲 [03] Social Media Content
 
 [14] **Instagram & Facebook Captions**  
 [15] **Twitter (X) Threads & Posts**  
@@ -39,7 +39,7 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-## 📧 [D] Email Copywriting
+## 📧 [04] Email Copywriting
 
 [20] **Newsletter Sequences**  
 [21] **Cold Outreach Emails**  
@@ -49,7 +49,7 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-## 📦 [E] Content Strategy & Planning
+## 📦 [05] Content Strategy & Planning
 
 [25] **Content Calendar Creation (Monthly/Quarterly)**  
 [26] **Content Audit (Blog or Website)**  
@@ -60,7 +60,7 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-## 🔍 [F] SEO-Focused Content Services
+## 🔍 [06] SEO-Focused Content Services
 
 [31] **On-Page SEO Copywriting**  
 [32] **Meta Titles & Descriptions**  
@@ -70,7 +70,7 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-## 📘 [G] Educational & Learning Material
+## 📘 [07] Educational & Learning Material
 
 [36] **Course Lesson Scripts**  
 [37] **Online Workshop Material Writing**  
@@ -80,7 +80,7 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-## 🎯 [H] Sales & Conversion Copy
+## 🎯 [08] Sales & Conversion Copy
 
 [41] **Sales Page Writing**  
 [42] **Short-Form Ad Copy (Google/Facebook/Instagram)**  
@@ -90,7 +90,7 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-## 🤖 [I] AI Content Services
+## 🤖 [09] AI Content Services
 
 [46] **Humanization of AI-Written Text**  
 [47] **Prompt Engineering for Blog Generation**  
@@ -100,7 +100,7 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-## 🌍 [J] Niche & Specialized Writing
+## 🌍 [10] Niche & Specialized Writing
 
 [51] **Mental Wellness Writing**  
 [52] **Faith-Based Soft Writing**  
@@ -110,7 +110,7 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-## 🧭 [K] Client-Facing Tools & Value Additions
+## 🧭 [11] Client-Facing Tools & Value Additions
 
 [56] **Client-Ready Content Brief Templates**  
 [57] **Freelancer Portfolio Setup (Notion/GitHub)**  
@@ -120,7 +120,7 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-## 🧡 [L] Jamalu Signature Services
+## 🧡 [12] Jamalu Signature Services
 
 [61] **Empathy-Led Content Writing**  
 [62] **Moment-Match Copywriting**  
