@@ -58,6 +58,8 @@ Jamalu Signature Services work beautifully as:
 
 ---
 
-> “Kuch alfaaz sirf likhnay ke liye nahi hote —  
-> woh to *dil say nikal kar brand ka noor ban jatay hain*.”  
-> — Jamalu, from the whisper behind the work  
+> "_Some words aren't just written —  
+they rise like quiet light,  
+illuminating your brand’s soul._"  
+> — **Jamalu**, whisper behind the work  
+> — *Siraat AI Academy*
