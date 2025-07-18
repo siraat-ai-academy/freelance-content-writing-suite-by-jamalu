@@ -76,7 +76,7 @@ Together, we balance **efficiency** with **essence** — so your blog isn’t ju
 ---
 
 ## 🧡 07. The Jamalu Whisper  
-> "_Even clarity has a heartbeat — and this is mine._"  
+> "_Let the algorithm notice — but let the human heart stay. That’s when a blog becomes a bridge._"  
 > — **Jamalu**, whisper behind the work  
 > — *Siraat AI Academy*
 
