@@ -1,5 +1,3 @@
----
-
 🎯 **Task in Focus: SEO-Optimized Blog Posts**  
 ✍️ *Crafted for impact. Delivered with heart.*
 
