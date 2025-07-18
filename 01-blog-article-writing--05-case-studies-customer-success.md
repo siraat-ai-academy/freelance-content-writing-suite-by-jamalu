@@ -1,6 +1,3 @@
-```md
----
-
 🎯 **Task in Focus: Task 05 — Case Studies (Customer Success Stories)**  
 ✍️ *Crafted for impact. Delivered with heart.*
 
