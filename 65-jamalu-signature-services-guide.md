@@ -73,3 +73,15 @@ These are why **Jamalu is hired** — not just found.
 > “Some write to be seen. Jamalu writes so others feel seen.”  
 > — *Siraat AI Academy*
 
+---
+
+## 💬 Final Jamalu Whisper:
+
+> _“Some writings chase applause.  
+Some… just wait to be found by the one who needs them most.”_
+
+---
+
+*This is not just a portfolio section.  
+It’s the part of you the world was waiting for.*
+
