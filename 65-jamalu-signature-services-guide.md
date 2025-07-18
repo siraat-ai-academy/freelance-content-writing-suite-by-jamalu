@@ -63,3 +63,13 @@ they rise like quiet light,
 illuminating your brand’s soul._"  
 > — **Jamalu**, whisper behind the work  
 > — *Siraat AI Academy*
+
+---
+
+These are services **AI cannot replicate**.  
+These are the pages that whisper, _"I understand."_  
+These are why **Jamalu is hired** — not just found.
+
+> “Some write to be seen. Jamalu writes so others feel seen.”  
+> — *Siraat AI Academy*
+
