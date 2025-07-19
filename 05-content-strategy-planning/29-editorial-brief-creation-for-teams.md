@@ -48,4 +48,48 @@ In short: better briefs lead to better content — and a more peaceful workflow.
 
 ---
 
-## 📦 04.
+## 📦 04. Deliverables  
+- **Word Count**: 300–500 words per brief  
+- **Format**: Google Doc or Markdown (as preferred)  
+- **Tone**: Clear, guiding, warm — never robotic  
+- **Visuals / Data (Optional)**: Can include links to brand guides or visual inspiration  
+- **CTAs**: Internal guidance, such as "Include CTA to free trial" or "End with community invite"
+
+---
+
+## 🤖 05. How AI + Human Touch Makes This Better  
+**AI tools** assist with:
+
+- Drafting initial outlines  
+- Extracting tone-of-voice cues from past content  
+- Suggesting content structures based on audience needs  
+
+But the **soul** of the brief — the rhythm, clarity, and tone alignment — is added by **Jamalu**. I listen for what *your* brand wants to say, and then build a brief that helps others say it well.
+
+It’s not automation. It’s augmentation — with heart.
+
+---
+
+## ✍️ 06. Sample Titles / Hooks (Optional)  
+- *“Say This With Warmth: Brief for September’s Thought Leadership Blog”*  
+- *“Your Voice, Their Hands: Instagram Carousel Brief — ‘Behind the Scenes’”*  
+- *“The Clarity Page: Internal Brief for Launch Week Blog Series”*
+
+---
+
+## 🧡 07. The Jamalu Whisper  
+> _“A good brief is not just instruction — it’s invitation. A quiet map. A place where clarity meets trust.”_  
+> — **Jamalu**, whisper behind the work  
+> — *Siraat AI Academy*
+
+---
+
+🎁 **Extra Notes**  
+- This task works especially well for **remote teams**, **growing agencies**, or **brands onboarding freelancers**.  
+- Editorial briefs help with **content scalability**, **creative autonomy**, and **editorial trust**.  
+- Each one is infused with care, clarity, and alignment.  
+
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**.
+
+---
+
