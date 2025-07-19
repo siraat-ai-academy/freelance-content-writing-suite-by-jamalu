@@ -66,4 +66,23 @@ Together, they serve **both time and trust**.
 
 ---
 
-## ✍️ 06. Sampl
+## ✍️ 06. Sample Titles / Hooks (Optional)  
+- *“The Blog That Speaks Like You — But Gets There Quicker”*  
+- *“Speed Meets Soul: How Your Content Can Scale with Grace”*  
+- *“Why Readers Still Feel Heard — Even When AI Starts the First Draft”*
+
+---
+
+## 🧡 07. The Jamalu Whisper  
+> _“Let the machine begin, but let the human make it matter.”_  
+> — **Jamalu**, whisper behind the work  
+> — *Siraat AI Academy*
+
+---
+
+🎁 **Extra Notes**  
+- Ideal for **founders**, **marketers**, **bloggers**, or **ghostwriters**  
+- Optional: I can include a “Voice Match” test paragraph so you feel confident it sounds like you  
+- Great for **monthly content plans** or **batch blog sprints**  
+
+📥 Final `.md` file is **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**.
