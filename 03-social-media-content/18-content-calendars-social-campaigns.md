@@ -1,4 +1,4 @@
-🎯 **Task in Focus: Task 18 — Content Calendars for Social Campaigns**  
+# 🎯 **Task in Focus: Task 18 — Content Calendars for Social Campaigns**  
 ✍️ *Crafted for impact. Delivered with heart.*
 
 📌 **Task Summary**:  
