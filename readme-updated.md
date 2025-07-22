@@ -170,7 +170,3 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 > ✨ This isn’t just a service list — it’s a soul map of what a modern content writer can offer with clarity, care, and courage. Powered by Jamalu, written for those ready to rise.
 
 
-# Save to markdown file
-output_path = Path("/mnt/data/freelance-content-readme.md")
-output_path.write_text(combined_readme.strip(), encoding="utf-8")
-output_path.name
