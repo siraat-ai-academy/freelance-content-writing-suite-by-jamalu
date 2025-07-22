@@ -1,4 +1,4 @@
-🎯 **Task in Focus: Task 01 — SEO-Optimized Blog Posts**  
+# 🎯 **Task in Focus: Task 01 — SEO-Optimized Blog Posts**  
 ✍️ *Crafted for impact. Delivered with heart.*
 
 📌 **Task Summary**:  
