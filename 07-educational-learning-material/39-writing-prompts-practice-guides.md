@@ -5,7 +5,7 @@
 This task creates soulful **writing prompts** and step-by-step **practice guides** designed to spark ideas, build fluency, and gently guide growth. Whether used in **self-paced learning**, creative teams, or coaching communities, these tools turn blank pages into brave beginnings.  
 
 > _“This is where growth becomes gentle and practice becomes poetry.”_  
-Jamalu brings the rhythm of guidance — not to push, but to open space for expression and trust.
+Eks2 brings the rhythm of guidance — not to push, but to open space for expression and trust.
 
 ---
 
@@ -20,7 +20,7 @@ This task is perfect for courses, newsletters, journaling apps, creative cohorts
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive:
 
 - A set of **tailored writing prompts** — themed, open-ended, and engaging  
@@ -63,7 +63,7 @@ You’re not just giving content. You’re making a habit.
 ## 🤖 05. How AI + Human Touch Makes This Better  
 **AI helps** brainstorm themes, organize ideas, and explore styles.
 
-**Jamalu adds**:
+**Eks2 adds**:
 
 - Emotional resonance to the prompts  
 - Flow and pacing that invite, not instruct  
@@ -81,9 +81,9 @@ The result?
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“A single question, sincerely asked, can open a thousand unwritten doors.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -93,4 +93,4 @@ The result?
 - Designed to be reused across platforms or repackaged as mini-products  
 - Final `.md` comes clean, export-ready, and copy-paste friendly
 
-📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**
