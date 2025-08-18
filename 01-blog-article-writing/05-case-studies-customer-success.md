@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task centers on writing **case studies** — real, grounded stories of **transformation**, **value**, and **success**. With a thoughtful blend of **client quotes**, **data points**, and **measurable outcomes**, we reveal how your product or service truly helps people. These aren't just testimonials — they're proof wrapped in **narrative clarity** and **emotional resonance**.
 
-> _“This is where results become stories, and storytelling becomes strategy — where Jamalu brings soul to your success.”_
+> _“This is where results become stories, and storytelling becomes strategy — where Eks2 brings soul to your success.”_
 
 ---
 ________________________________________
@@ -20,7 +20,7 @@ It’s business proof with a human pulse.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a fully written, structured case study (typically **600–1000 words**) that brings together:
 - A **problem-solution-outcome** arc  
 - Real quotes from happy customers (interviewed or provided)  
@@ -60,7 +60,7 @@ They're not just nice-to-haves. They're your **living testimonials** — built f
   - Analyzing tone consistency  
   - Suggesting headlines and callouts  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Soft transitions between data and emotion  
   - A gentle ear for nuance in each quote  
   - A narrative voice that honors the **client’s journey**, not just the product  
@@ -77,9 +77,9 @@ Together, we shape stories that shine — not with hype, but with **heartful tru
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_The numbers tell you what changed. The story tells you why it mattered._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
