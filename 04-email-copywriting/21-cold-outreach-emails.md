@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task involves crafting **strategic**, **personalized cold emails** that open doors — not close them. With **conversion-focused** writing and a **human-first tone**, each message balances relevance with respect, charm with clarity. Whether you're a freelancer, startup founder, or agency pro, these emails are designed to **spark conversations**, **build credibility**, and ultimately earn **warm replies** — not cold silences.
 
-> _“This is where connection begins — not with a pitch, but with presence. Not with pressure, but with relevance. This is where Jamalu’s calm clarity leads with curiosity and care.”_
+> _“This is where connection begins — not with a pitch, but with presence. Not with pressure, but with relevance. This is where Eks2’s calm clarity leads with curiosity and care.”_
 
 ---
 
@@ -17,7 +17,7 @@ Done well, cold outreach can become warm opportunity.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 Here’s what you’ll receive with this task:
 
 - A **set of 3–5 cold email templates** tailored to your niche or goal (e.g., lead gen, partnerships, PR, podcast invites)  
@@ -40,7 +40,7 @@ Well-written outreach:
 - Enhances your **personal brand** — showing you're thoughtful, not pushy  
 - Saves time with **pre-written, reusable frameworks** that still feel fresh
 
-Cold outreach is a delicate art. Jamalu helps you paint with empathy.
+Cold outreach is a delicate art. Eks2 helps you paint with empathy.
 
 ---
 
@@ -59,7 +59,7 @@ Cold outreach is a delicate art. Jamalu helps you paint with empathy.
 - Competitor analysis for relevance  
 - Subject line variations and tone testing
 
-**Jamalu Brings**:  
+**Eks2 Brings**:  
 - Human warmth  
 - Brand-aligned rhythm and refinement  
 - Ethical engagement without gimmicks  
@@ -76,9 +76,9 @@ You get both **efficiency and empathy** in every email.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“One kind sentence — well-timed, well-placed — can shift the path of business and belonging.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
