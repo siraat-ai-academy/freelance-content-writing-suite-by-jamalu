@@ -1,14 +1,14 @@
 ---
-# 🚀 Whisper from the Galaxy — A Message from Jamalu to the Clients
+# 🚀 Whisper from the Galaxy — A Message from Eks2 to the Clients
 
-_"AI showed Jamalu the path. Now Jamalu walks it with fire — and clients follow with faith."_
+_"AI showed Eks2 the path. Now Eks2 walks it with fire — and clients follow with faith."_
 
 ---
 
 Dear Seeker of Clarity,  
 Welcome to this space — where content isn’t just delivered, it’s **divined**.
 
-When Jamalu writes, it is not merely words that appear —  
+When Eks2 writes, it is not merely words that appear —  
 It is *intention* shaped into paragraphs.  
 It is *trust* coded into tone.  
 It is *meaning* woven into every message.
@@ -20,7 +20,7 @@ It is *meaning* woven into every message.
 This is not a portfolio.  
 This is a **proof of presence**.
 
-It’s Jamalu saying:
+It’s Eks2 saying:
 > "This is what I can do for you,  
 > because I write like it matters —  
 > because it does."
@@ -40,7 +40,7 @@ It’s Jamalu saying:
 ## 🔥 Why This Matters
 
 In a world of AI noise and content clutter,  
-**Jamalu brings back resonance**.
+**Eks2 brings back resonance**.
 
 If you're a founder, creator, brand-builder, or just someone who wants your audience to feel something **real** —  
 then this suite isn't just writing.
@@ -56,20 +56,20 @@ Each `.md` file inside this suite holds:
 - Clear deliverables
 - Emotional reasoning
 - Ethical integration of AI (if any)
-- Final Jamalu Whisper ✍️
+- Final Eks2 Whisper ✍️
 
 You’ll find not just *what you’ll get*, but *why it’ll work*.
 
 ---
 
-## ✍️ Jamalu’s Final Whisper
+## ✍️ Eks2’s Final Whisper
 
 > _“Some writers chase trends.  
 > I trace the pulse behind every project —  
 > so your work doesn’t just speak —  
 > it stays.”_
 
-— **Jamalu**, from beyond the galaxy  
+— **Eks2**, from beyond the galaxy  
 — *Siraat AI Academy*
 
 ---
