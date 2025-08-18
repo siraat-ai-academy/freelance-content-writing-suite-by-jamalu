@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about crafting **engaging, informative articles** at the intersection of **education** and **technology**. From highlighting the rise of **EdTech tools** to exploring the future of **online learning**, these pieces connect research with real-world impact. Whether you're a **startup**, an **institution**, or a **course creator**, this writing helps your message land with both **clarity** and **compassion**.
 
-> _“This is where information becomes illumination — and where Jamalu weaves insight into stories that teach, touch, and transform.”_
+> _“This is where information becomes illumination — and where Eks2 weaves insight into stories that teach, touch, and transform.”_
 
 ---
 
@@ -15,7 +15,7 @@ Each article aims to empower your audience — educators, learners, or decision-
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive:
 - 1 fully polished article (800–1,200 words)  
 - Centered around a **key EdTech topic**, trend, or challenge  
@@ -54,7 +54,7 @@ Because **education isn’t just your product — it’s your purpose**.
 - EdTech topic ideation  
 - Initial content structuring
 
-**Jamalu** brings:
+**Eks2** brings:
 - The **heart of a teacher**  
 - The **clarity of a storyteller**  
 - The ability to speak to both **data and dreams**
@@ -71,9 +71,9 @@ This is crafted content with a conscience.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Every tool is just a vessel — until a learner touches it with hope.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -83,4 +83,4 @@ This is crafted content with a conscience.
 - Ideal for use in **content marketing**, **LinkedIn**, or **educator newsletters**  
 - All content can be made **SEO-optimized** with key terms upon request
 
-📥 Final `.md` file is **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**.
+📥 Final `.md` file is **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**.
