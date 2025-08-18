@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about writing **Services Page descriptions** that feel clear, confident, and customer-aligned. Instead of jargon or generalities, each service is described with **precision**, real **benefits**, and **desired outcomes** — so that visitors quickly understand what you offer and why it truly matters. It’s equal parts **clarity**, **connection**, and quiet persuasion.
 
-> _“This is where offerings meet understanding — and Jamalu shapes the bridge between what you do and what your audience needs, with insight, rhythm, and care.”_
+> _“This is where offerings meet understanding — and Eks2 shapes the bridge between what you do and what your audience needs, with insight, rhythm, and care.”_
 
 ---
 ________________________________________
@@ -20,7 +20,7 @@ It’s clarity in motion, and a quiet invitation to work with you.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive fully written descriptions for each of your **core services** (typically 100–200 words each), presented in a layout-ready format.
 
 Each service will include:
@@ -63,7 +63,7 @@ When people know what they’re walking into, they walk in with more confidence.
   - Comparing industry phrasing for clarity checks  
   - Headline/title variation testing  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Precision of voice + emotional resonance  
   - Human pacing that doesn’t overwhelm  
   - Connection between service and **human need**  
@@ -80,9 +80,9 @@ It’s tech-enabled, but always **soul-led**.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_A service is not just a skill. It’s a kindness wrapped in clarity._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
