@@ -17,7 +17,7 @@ Even if you're new to analytics, this guide will feel friendly, not overwhelming
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a gentle-yet-powerful performance plan, which may include:
 - Best tools for your brand size (e.g., **Google Search Console**, **Hotjar**, **Notion dashboards**, etc.)  
 - Simple ways to monitor **engagement**, **conversions**, and **organic visibility**  
@@ -25,7 +25,7 @@ You’ll receive a gentle-yet-powerful performance plan, which may include:
 - Notes on what **not to overtrack** — so you stay clear, not cluttered  
 - If requested: a walkthrough or Loom-style guide for implementation  
 
-Jamalu delivers this in a way that feels both **technical** and **tender**.
+Eks2 delivers this in a way that feels both **technical** and **tender**.
 
 ---
 
@@ -57,7 +57,7 @@ It’s about building with **intention**, not just intuition.
 - Generating metric definitions, tool overviews, and formatting ideas  
 - Recommending top tools based on your use case
 
-But **Jamalu** brings:
+But **Eks2** brings:
 - Curated clarity: what *you* actually need (not just trendy apps)  
 - Explanations in plain language, for non-technical founders or creators  
 - A soul-aware filter — so numbers stay meaningful, not mechanical  
@@ -73,9 +73,9 @@ Together, it’s insights **with rhythm**.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“The numbers are not the voice — they’re the echo. Listen, and you’ll know where to walk next.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
