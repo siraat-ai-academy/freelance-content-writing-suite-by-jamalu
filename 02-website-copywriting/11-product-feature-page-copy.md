@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task centers on writing clear and compelling **product or feature page copy** that highlights not just what something does — but why it matters. Through **benefit-driven messaging**, **usability-focused flow**, and soft, persuasive tone, this copy improves **product understanding** and **conversion rates**, turning browsers into believers.
 
-> _“This is where function finds voice — and Jamalu brings clarity, care, and quiet conviction to every feature you share.”_
+> _“This is where function finds voice — and Eks2 brings clarity, care, and quiet conviction to every feature you share.”_
 
 ---
 ________________________________________
@@ -18,7 +18,7 @@ A **product or feature page** isn’t about technical specs alone. It’s about 
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a well-structured product or feature page (typically **150–400 words**) designed to:
 - Highlight what the product or feature **does**  
 - Emphasize how it **helps** the user  
@@ -59,7 +59,7 @@ It’s the copy that turns curiosity into commitment.
   - Outline drafts or microcopy variations  
   - Feature/benefit pairing suggestions  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Deep focus on **user empathy** and journey flow  
   - Gentle persuasion through **value-first storytelling**  
   - Honest framing (no hype — just truth that lands well)  
@@ -76,9 +76,9 @@ This is more than feature blurbs. It’s a voice your customer will trust.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_A product is powerful. But words make it welcoming._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
