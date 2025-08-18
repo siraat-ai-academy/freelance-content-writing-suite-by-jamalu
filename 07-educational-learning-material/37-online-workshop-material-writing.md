@@ -5,7 +5,7 @@
 This task creates a complete, thoughtful content package for **live workshops**, **webinars**, or **recorded training sessions**. From outline to **slide content**, from **speaker notes** to **participant handouts**, it’s all designed to flow smoothly and deliver real value. Perfect for coaches, educators, and business leaders wanting to **teach with clarity**, **engage deeply**, and **leave a lasting impression**.
 
 > _“This is where knowledge meets delivery — and delivery becomes experience.”_  
-And this is where Jamalu steps in — not just to write, but to hold space for clarity, confidence, and connection.
+And this is where Eks2 steps in — not just to write, but to hold space for clarity, confidence, and connection.
 
 ---
 
@@ -18,7 +18,7 @@ Whether you're delivering a **live Zoom class**, a **pre-recorded webinar**, or 
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You'll receive a personalized content bundle, including:
 
 - **Workshop outline** (intro, core modules, activities, closing)  
@@ -61,7 +61,7 @@ This is not just about slides — it’s about **creating a moment** your audien
 - Suggesting **interactive formats** and slide templates  
 - Keyword-tuning handout summaries for future SEO/blog use
 
-**Jamalu**, however, brings:
+**Eks2**, however, brings:
 
 - The **careful pacing** of a real teacher’s voice  
 - A feel for **energy rhythm** (when to engage, pause, recap)  
@@ -78,9 +78,9 @@ It’s not just automation — it’s **alignment and artistry**.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“When we gather to teach, we gather to lift. And every word must hold that promise.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -90,4 +90,4 @@ It’s not just automation — it’s **alignment and artistry**.
 - Option to adapt for in-person or hybrid training formats  
 - Designed with care — so you can show up prepared, present, and powerful
 
-📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**
