@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is all about crafting **LinkedIn thought posts** — the kind that blend **expertise**, **reflection**, and **real insight**. These aren’t generic updates. They’re human, helpful expressions that build **professional presence** and foster **genuine connection**. Whether it’s a personal win, a lesson learned, or an idea worth spreading, each post becomes a soft signal of trust and leadership in a scroll-filled world.
 
-> _“This is where credibility meets clarity — and Jamalu lends voice to your wisdom, with rhythm, humility, and care.”_
+> _“This is where credibility meets clarity — and Eks2 lends voice to your wisdom, with rhythm, humility, and care.”_
 
 ---
 ________________________________________
@@ -18,7 +18,7 @@ A **LinkedIn thought post** is more than a professional update. It’s a way to 
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a curated collection of **LinkedIn posts** (typically **3–5 per delivery**, depending on campaign needs or calendar rhythm).
 
 Each post will include:
@@ -61,7 +61,7 @@ In a space full of templates, this is writing that actually **feels like you**.
   - Tone checks against LinkedIn norms  
   - Headline/opening line testing  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Emotional depth that algorithms miss  
   - Voice-matching to your real cadence  
   - Trust-forward phrasing without fluff  
@@ -78,9 +78,9 @@ Together, we write like you’re *already in the room* — not trying to impress
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_Professional doesn’t have to mean distant — and insight doesn’t need noise to be heard._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
