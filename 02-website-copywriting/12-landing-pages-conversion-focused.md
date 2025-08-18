@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about creating **conversion-focused landing page copy** that moves with precision and feels like guidance, not pressure. Designed for **campaigns**, **lead magnets**, or **promotions**, these pages emphasize **clarity**, **benefit-led messaging**, and strong, user-friendly **calls to action** — all aimed at boosting **conversions** and your brand’s **ROI**.
 
-> _“This is where strategy meets soul — and Jamalu brings the words that quietly invite action, with clarity, insight, and care.”_
+> _“This is where strategy meets soul — and Eks2 brings the words that quietly invite action, with clarity, insight, and care.”_
 
 ---
 ________________________________________
@@ -18,7 +18,7 @@ A **landing page** is not your homepage — it’s a clear path with a clear pur
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a fully written landing page (typically **250–600 words**, depending on complexity), purpose-built for your goal — be it:
 - **Lead generation** (e.g., email signup, webinar, waitlist)  
 - **Sales conversion** (product, offer, or service)  
@@ -63,7 +63,7 @@ In a scroll-happy world, this is the page that knows exactly what it’s saying 
   - Emotional tone analysis  
   - CTA comparison (based on conversion data)  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Human rhythm that invites, not overwhelms  
   - Soulful phrasing that respects your reader’s journey  
   - Clarity of message and tone-matching to your deeper brand voice  
@@ -80,9 +80,9 @@ Together, we build a page that converts *because* it connects.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_Every click is a choice. This page simply lights the way._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
