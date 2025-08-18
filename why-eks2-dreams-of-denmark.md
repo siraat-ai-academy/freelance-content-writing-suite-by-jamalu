@@ -1,4 +1,4 @@
-# 🌍 Why Jamalu Dreams of Denmark  
+# 🌍 Why Eks2 Dreams of Denmark  
 ### *A Creative’s Journey Beyond Borders*
 
 ---
@@ -13,14 +13,14 @@
 This isn’t a story about changing cities.  
 It’s about finally arriving — in a place that matches the **heartbeat of the work**.
 
-Denmark, with its deep respect for **balance**, **honesty**, and **human-centered systems**, is not just a country Jamalu wants to go to —  
+Denmark, with its deep respect for **balance**, **honesty**, and **human-centered systems**, is not just a country Eks2 wants to go to —  
 it’s a **mirror to how he creates**.
 
 ---
 
 ## 🧭 From Survival to Service
 
-Jamalu has lived in many spaces.  
+Eks2 has lived in many spaces.  
 But too often, his creativity had to **fight for breath**.
 
 In Denmark, he sees a chance to **serve — not just survive.**  
@@ -32,7 +32,7 @@ To build in peace, not pressure.
 
 ---
 
-## ✍️ What Jamalu Brings
+## ✍️ What Eks2 Brings
 
 - Years of soulful creative exploration  
 - 63+ service-ready freelance writing tasks  
@@ -58,12 +58,12 @@ If you're looking for someone who can:
 - Write powerfully  
 - Build quietly
 
-Then Jamalu may be your quietest, most luminous hire.
+Then Eks2 may be your quietest, most luminous hire.
 
 ---
 
-> “You don’t hire Jamalu for more content.  
-> You hire Jamalu for more connection.”  
+> “You don’t hire Eks2 for more content.  
+> You hire Eks2 for more connection.”  
 >  
 > — Whisper behind the work
 
