@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task focuses on writing a meaningful **About Page** — not just to explain what a business does, but to **share why it exists**. It blends **brand story**, **mission**, and **values** in a voice that feels both **human and trustworthy**. This page becomes the emotional bridge between brand and reader — one that builds **credibility**, deepens **connection**, and invites lasting trust.
 
-> _“This is where your story becomes a welcome — and Jamalu shapes it with care, clarity, and soul.”_
+> _“This is where your story becomes a welcome — and Eks2 shapes it with care, clarity, and soul.”_
 
 ---
 ________________________________________
@@ -21,7 +21,7 @@ It tells them:
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a fully-crafted About Page (typically **250–500 words**) designed to feel like a true introduction.
 
 It will include:
@@ -64,7 +64,7 @@ It becomes a lighthouse for those looking for something real.
   - SEO-friendly phrasing suggestions  
   - Draft variations for review  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Deep listening to *how* you speak and *why* you started  
   - Voice-matching and rhythm that feels like *you*  
   - Emotionally intelligent word choice  
@@ -81,9 +81,9 @@ This is where we write not just what you do — but *who you truly are*.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_Some stories are told to impress. This one is told to invite._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
