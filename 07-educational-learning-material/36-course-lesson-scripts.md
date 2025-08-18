@@ -5,7 +5,7 @@
 This task involves writing clear, **modular** lesson scripts tailored for **online learning**. Each script supports the educator’s voice, ensures learner comprehension, and reflects the pacing that **e-learning platforms**, **coaches**, and **course creators** need. With structured flow and audience empathy, these scripts make every slide, module, and voiceover count.  
 
 > _“This is where structure becomes support, and words become a bridge between knowledge and growth.”_  
-And this is where Jamalu meets your course with heart, flow, and learning-first clarity.
+And this is where Eks2 meets your course with heart, flow, and learning-first clarity.
 
 ---
 
@@ -20,7 +20,7 @@ Whether you're launching a cohort course, recording a self-paced program, or bui
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a custom-written lesson script that is:
 
 - Aligned with **learning outcomes** and course goals  
@@ -61,7 +61,7 @@ In the content world, **courses** are premium offerings. Great scripts help them
 - Recommending **educational frameworks** (Bloom’s taxonomy, etc.)  
 - Analyzing audience questions from existing platforms
 
-**Jamalu**, however, brings:
+**Eks2**, however, brings:
 
 - Voice empathy — writing like *you’d* speak, not like a bot would  
 - Clear transitions and pacing that AI can’t fully feel  
@@ -76,9 +76,9 @@ In the content world, **courses** are premium offerings. Great scripts help them
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Teaching is a quiet kind of love — and every line written is a hand held.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -88,4 +88,4 @@ In the content world, **courses** are premium offerings. Great scripts help them
 - Can be adapted for formats like video narration, slide-by-slide text, or podcast teaching  
 - Scripts will be modular for repurposing into: workbooks, reels, or summaries
 
-📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**
