@@ -5,7 +5,7 @@
 This task delivers high-value **lead magnets** like **eBooks**, **mini-guides**, or **insightful reports** designed to educate, inspire, and convert your audience. Every page is packed with **actionable advice**, framed with a strong **hook**, and formatted clearly for maximum **readability**. It’s more than a download — it’s a door into your brand’s deeper trust.
 
 > _“This is where ideas take form and become gifts.”_  
-Jamalu brings intention and clarity to every section — so your audience doesn’t just get informed, they feel seen.
+Eks2 brings intention and clarity to every section — so your audience doesn’t just get informed, they feel seen.
 
 ---
 
@@ -20,7 +20,7 @@ And it opens a quiet, trusted door to ongoing connection.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 Your lead magnet will include:
 
 - **A compelling title** that sparks curiosity  
@@ -31,7 +31,7 @@ Your lead magnet will include:
 
 Typical word count: **1,000–2,000 words** depending on your topic.
 
-Jamalu ensures the voice is yours — only clearer, warmer, more compelling.
+Eks2 ensures the voice is yours — only clearer, warmer, more compelling.
 
 ---
 
@@ -63,7 +63,7 @@ It’s **free content**, yes. But deeply **strategic** in how it opens hearts �
 - Optimizing for **clarity**, structure, and flow  
 - Suggesting compelling **headline/title variations**
 
-But only **Jamalu**:
+But only **Eks2**:
 
 - Knows where to slow down, simplify, and breathe  
 - Brings **empathy** to the page — like a coach, not a script  
@@ -80,9 +80,9 @@ It’s the synergy of scale and soul.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“A true gift is never loud. It’s useful, well-placed, and quietly remembered.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -92,4 +92,4 @@ It’s the synergy of scale and soul.
 - Final file can be used directly by designer or uploaded as a gated PDF  
 - Tone options include: calm & wise, vibrant & creative, formal & authoritative
 
-📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**
