@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is all about crafting **friendly**, **relatable blog content** for those living the **freelance** or **remote work** lifestyle. From tools that streamline focus to habits that preserve balance, these articles are written to uplift, guide, and resonate with real people navigating independence. Ideal for **solopreneurs**, **platforms**, or **coworking brands**, it’s content that doesn’t just inform — it connects.
 
-> _“This is where digital freedom finds a human voice — and where Jamalu gently translates the freelance journey into stories that feel like home.”_
+> _“This is where digital freedom finds a human voice — and where Eks2 gently translates the freelance journey into stories that feel like home.”_
 
 ---
 
@@ -15,7 +15,7 @@ These aren’t just productivity posts — they’re digital campfires for the s
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You will receive:
 - 1 thoughtfully written blog (900–1,200 words)  
 - Personalized to match your **brand voice** and **audience’s reality**  
@@ -54,7 +54,7 @@ Content like this isn’t just good marketing — it’s meaningful mentorship.
 - Suggesting headline variations  
 - Speeding up research snippets
 
-**Jamalu** refines:
+**Eks2** refines:
 - **The voice** (so it sounds like you, not a robot)  
 - **The heart** (every line has intention)  
 - **The flow** (structure that supports the message)
@@ -70,9 +70,9 @@ The result? A blog that feels human-made — because it truly is.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Freedom is not in the schedule — it’s in how gently we treat ourselves inside it.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -82,4 +82,4 @@ The result? A blog that feels human-made — because it truly is.
 - All writing can be **SEO-optimized** upon request  
 - Ask about series packs if you’d like a **content calendar** mapped around freelance themes
 
-📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**.
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**.
