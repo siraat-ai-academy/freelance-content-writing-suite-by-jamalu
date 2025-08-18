@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is all about turning complex ideas into **engaging, scroll-worthy carousel scripts** for platforms like **Instagram** and **LinkedIn**. These short-slide sequences help educate, inspire, and entertain — while boosting **saves**, **shares**, and **brand recall**. Each frame is written with intention, maximizing clarity, **copywriting rhythm**, and **storytelling flow** to keep users swiping and connecting.
 
-> _“This is where your big ideas are broken down gently — slide by slide, scroll by scroll — with Jamalu’s care guiding each word.”_
+> _“This is where your big ideas are broken down gently — slide by slide, scroll by scroll — with Eks2’s care guiding each word.”_
 
 ---
 
@@ -17,7 +17,7 @@ It’s like turning your brain’s wisdom into something your audience can tap t
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 With calm clarity, I’ll help you script a scroll-stopping carousel that balances clarity with charm.
 
 Here’s what you’ll receive:
@@ -60,7 +60,7 @@ In the crowded feed, these tiny, powerful sliders hold the quiet magic of storyt
 - Structuring logical slide flows  
 - Researching quick facts or phrasing variations  
 
-**Jamalu Brings**:  
+**Eks2 Brings**:  
 - Nuance of tone and phrasing that feels *alive*  
 - Human-sounding rhythm and voice  
 - Empathy, emotion, and strategic storytelling  
@@ -77,9 +77,9 @@ This is not just swipe-copy. It’s **soul-scripted sequencing**.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“A scroll is not a race — it’s a rhythm. May each slide you offer slow someone down, just enough to feel seen.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
