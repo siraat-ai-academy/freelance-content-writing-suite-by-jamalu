@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task focuses on building **clear**, **strategic content brief templates** that align everyone — clients, writers, and creative teams — before the first word is written. These thoughtful tools include sections for **goals**, **audience profiles**, **SEO keywords**, **tone**, **format**, and more. Ideal for **agencies**, **freelancers**, and **brands** juggling multiple voices and visions.
 
-> _“This is where content clarity is born — not in the writing, but before it even begins. Jamalu offers a calm, structured start to your story.”_
+> _“This is where content clarity is born — not in the writing, but before it even begins. Eks2 offers a calm, structured start to your story.”_
 
 ---
 
@@ -17,7 +17,7 @@ It’s not just about saving time. It’s about building trust and shared unders
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive:
 - 1 or more **editable content brief templates** (Google Docs, Notion, or PDF)  
 - With customizable fields for:  
@@ -62,7 +62,7 @@ The brief becomes a bridge — between you and the results you want.
 - Generate sample goals based on content types  
 - Analyze tone-matching fields
 
-**Jamalu** ensures:
+**Eks2** ensures:
 - Each template feels warm, not cold  
 - Questions are **easy to answer**, not intimidating  
 - Formatting supports **flow and clarity**  
@@ -78,9 +78,9 @@ This is **AI-backed efficiency** softened by **human design wisdom**.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Content that begins in alignment ends in harmony.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -90,4 +90,4 @@ This is **AI-backed efficiency** softened by **human design wisdom**.
 - Versions available with or without embedded examples  
 - Each brief encourages **soul + strategy** — no jargon for the sake of it  
 
-📥 Final `.md` and brief template files will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**.
+📥 Final `.md` and brief template files will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**.
