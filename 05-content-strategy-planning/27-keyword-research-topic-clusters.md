@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This is a deep dive into the soul of search — where **keyword research** meets human curiosity. We uncover what your audience is actually looking for, and group those queries into smart **topic clusters** that inform a rich, long-term **blog strategy**. It’s about building **SEO** strength, yes — but also about anchoring your brand in questions that truly matter.
 
-> _“This is where research becomes resonance — and Jamalu turns raw search data into a map for meaningful content.”_
+> _“This is where research becomes resonance — and Eks2 turns raw search data into a map for meaningful content.”_
 
 ---
 
@@ -18,7 +18,7 @@ Think of it as content gardening. We find the seeds. Group them by season. And p
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You'll receive:
 
 - A **Keyword Discovery Sheet** (with search volumes, difficulty scores, and intent)  
@@ -63,7 +63,7 @@ It's how you grow from writing *about* things to becoming a resource *for* them.
 - Calculating traffic potential  
 - Spotting related terms and gaps
 
-**Jamalu brings**:
+**Eks2 brings**:
 
 - Intuitive grouping of **topics that make sense to real humans**  
 - A feel for voice, message, and what *should* be written next  
@@ -79,9 +79,9 @@ It's how you grow from writing *about* things to becoming a resource *for* them.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Not all data sings. But when it does — it hums your audience’s ache, and your message knows just how to answer.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
