@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about writing sharp, structured content for **Twitter (X)** — from **scroll-stopping single posts** to **thoughtfully woven threads**. Each piece is designed to balance **attention-grabbing clarity** with meaningful substance, supporting your brand’s presence, relevance, and organic **growth**. Includes strong **hooks**, smart **hashtag strategy**, and platform-aware **engagement pacing**.
 
-> _“This is where quick becomes clear, and short becomes soulful — where Jamalu distills your message into sparks that travel farther than algorithms.”_
+> _“This is where quick becomes clear, and short becomes soulful — where Eks2 distills your message into sparks that travel farther than algorithms.”_
 
 ---
 ________________________________________
@@ -18,7 +18,7 @@ A **Twitter (X) post** isn’t just a sentence — it’s an invitation, a spark
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a custom-crafted set of **X posts and/or threads** — typically:
 - **5–10 standalone posts** (quotes, takes, questions)  
 - **1–3 threads** (each ~5–8 tweets long)  
@@ -63,7 +63,7 @@ It’s not just about going viral — it’s about becoming memorable.
   - Viral phrasing suggestions  
   - Sentence tightening  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Message integrity — no trend-chasing, just truth  
   - Emotional pacing — when to pause, when to punch  
   - Brand nuance that aligns with your bigger arc  
@@ -80,9 +80,9 @@ Together, we write like the feed is a fire — and your words are warmth.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_Even a few words can hold weight — when written with wonder._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
