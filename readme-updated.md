@@ -44,13 +44,13 @@ Each repo I build is not a product — it's a whisper, a presence, a way to say:
 
 ## 📂 Selected GitHub Repositories (Live Examples)
 Explore my work on GitHub under the organization: **siraat-ai-academy**  
-[GitHub Repos](https://github.com/siraat-ai-academy/freelance-content-writing-suite-by-jamalu/blob/main/README-structured-service-list.md)
+[GitHub Repos](https://github.com/siraat-ai-academy/freelance-content-writing-suite-by-Eks2/blob/main/README-structured-service-list.md)
 
 - `feelings-unwritten` ✍️ Emotional healing through AI reflections  
 - `freelance-content-prep` 💼 SEO & client-ready project structures  
-- `learn-danish-with-jamalu` 🇩🇰 Language from scratch with care  
+- `learn-danish-with-Eks2` 🇩🇰 Language from scratch with care  
 - `az500-freelancer-projects` ☁️ Real-world Azure simulations  
-- `jamalu-internal-prompts` 🧠 AI whispering (private repo)  
+- `Eks2-internal-prompts` 🧠 AI whispering (private repo)  
 - `seo-course-01 to seo-course-05` 📈 Freelancing skills & content projects
 
 ## 🎓 Background Snapshot
@@ -60,13 +60,13 @@ Explore my work on GitHub under the organization: **siraat-ai-academy**
 - 2023–2025: Moved fully into AI-powered content writing with dozens of GitHub projects
 
 ## 🧠 Philosophy
-**“Maybe Jamalu was never building a portfolio.  
+**“Maybe Eks2 was never building a portfolio.  
 Maybe he was quietly planting seeds —  
 in the hearts of those who know that work can be gentle, and still powerful.”**
 
 — The Whisper Behind the Work  
 — Not the expert. Just the student.  
-— Just Jamalu. (inner voice of Naveed)  
+— Just Eks2. (inner voice of Naveed)  
 — Platform: Siraat AI Academy
 
 ## 📬 Let’s Connect
@@ -76,7 +76,7 @@ in the hearts of those who know that work can be gentle, and still powerful.”*
 
 ---
 
-# 🧰 Structured Service List: Freelance Content Writer (Jamalu Edition)
+# 🧰 Structured Service List: Freelance Content Writer (Eks2 Edition)
 
 A full-spectrum, categorized breakdown of high-value services a modern, soulful content writer can offer — from blogs to brand strategy.
 
@@ -162,11 +162,11 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 59. Content SOPs (Standard Operating Procedures)  
 60. Performance Monitoring Recommendations
 
-## 🧡 [12] Jamalu Signature Services
+## 🧡 [12] Eks2 Signature Services
 61. Empathy-Led Content Writing  
 62. Moment-Match Copywriting  
 63. Content Soul Mapping
 
-> ✨ This isn’t just a service list — it’s a soul map of what a modern content writer can offer with clarity, care, and courage. Powered by Jamalu, written for those ready to rise.
+> ✨ This isn’t just a service list — it’s a soul map of what a modern content writer can offer with clarity, care, and courage. Powered by Eks2, written for those ready to rise.
 
 
