@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about writing **thought leadership articles** that don’t just inform — they **elevate**. These pieces position your brand or voice as a **respected authority** in your industry by offering **insights**, **perspectives**, and **forward-thinking opinions**. Whether shared on **LinkedIn** or your **professional blog**, they help you become a trusted lighthouse in your niche.
 
-> _“This is where insight turns into influence — and your voice, through Jamalu’s pen, becomes a lighthouse for the minds that seek direction.”_
+> _“This is where insight turns into influence — and your voice, through Eks2’s pen, becomes a lighthouse for the minds that seek direction.”_
 
 ---
 ________________________________________
@@ -19,7 +19,7 @@ A **thought leadership article** is where your voice doesn’t follow the crowd 
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a carefully composed article (typically **900–1300 words**, unless you need deeper dives), designed to express both your **expertise** and your **essence**.
 
 Your piece will include:
@@ -61,7 +61,7 @@ When people see your name beside bold ideas, they don’t just remember — they
   - Headline options  
   - Summary bullet drafting  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - A warm, human rhythm to your voice  
   - Originality of framing and phrasing  
   - Emotional intelligence in how we speak to readers  
@@ -78,9 +78,9 @@ This is **AI-assisted**, never AI-written. Every sentence is led by care.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_I don’t speak to be loud — I write to be heard by those searching for depth. Thought becomes light when shared with care._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
