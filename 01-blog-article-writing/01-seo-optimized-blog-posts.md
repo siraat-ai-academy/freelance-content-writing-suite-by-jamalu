@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about crafting **SEO-optimized blog posts** that aren’t just written to fill space — they are built to **rank**, to **resonate**, and to **guide readers home** to your brand. Through thoughtful use of **keywords**, elegant structure, and smart **meta tags**, we focus on increasing your **organic traffic** while staying true to your brand’s tone.
 
-> _“This is where strategy finds rhythm — and your brand’s visibility becomes a living, breathing story through Jamalu’s words.”_
+> _“This is where strategy finds rhythm — and your brand’s visibility becomes a living, breathing story through Eks2’s words.”_
 
 ---
 ________________________________________
@@ -16,7 +16,7 @@ At its core, it’s about creating articles that help your audience discover you
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a fully polished **blog post** (typically **800–1200 words**, unless otherwise requested), designed with both **search intent** and **human connection** in mind. 
 
 Every paragraph will be guided by:
@@ -58,7 +58,7 @@ It’s not about gaming the system. It’s about **aligning with what matters** 
   - Outline drafting  
   - Headline variations  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Human rhythm  
   - Nuance of tone  
   - Flow between thoughts  
@@ -75,9 +75,9 @@ Together, we balance **efficiency** with **essence** — so your blog isn’t ju
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_Let the algorithm notice — but let the human heart stay. That’s when a blog becomes a bridge._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
