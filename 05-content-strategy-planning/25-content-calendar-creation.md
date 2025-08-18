@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about planning your **content ecosystem** — week by week or quarter by quarter — so that every post, blog, and campaign feels intentional. With a smart **content calendar**, we bring clarity to chaos and give your brand a rhythm that builds **consistency**, **audience trust**, and **strategic momentum**. Whether you're managing **blogs**, **social posts**, or **email campaigns**, this structure ensures you always know what’s next — and why.
 
-> _“This is where strategy meets story — and where Jamalu listens not just to the dates, but to the heartbeat of your message.”_
+> _“This is where strategy meets story — and where Eks2 listens not just to the dates, but to the heartbeat of your message.”_
 
 ---
 
@@ -18,7 +18,7 @@ Whether you need a **monthly pulse** or a **quarterly vision**, this calendar ke
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a thoughtfully structured calendar (monthly or quarterly) with:
 
 - **Topics / content ideas** pre-filled  
@@ -59,13 +59,13 @@ It’s how you stay **relevant**, **visible**, and **human** — all at once.
 - Topic generation  
 - Hashtag or seasonal keyword suggestions
 
-**Jamalu brings**:  
+**Eks2 brings**:  
 - Brand alignment and calendar logic  
 - Flow between platforms and message types  
 - Nuanced rhythm (not overposting, not random)  
 - Real-life timing, audience empathy, and soulfulness
 
-AI offers structure. Jamalu brings **soul to the schedule**.
+AI offers structure. Eks2 brings **soul to the schedule**.
 
 ---
 
@@ -76,9 +76,9 @@ AI offers structure. Jamalu brings **soul to the schedule**.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“The best calendars don’t just fill time — they fill hearts with something worth remembering.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -87,7 +87,7 @@ AI offers structure. Jamalu brings **soul to the schedule**.
 - Calendars can include **platform-specific notes** (e.g., LinkedIn rhythm vs. Instagram flow)  
 - Optional add-ons: **Caption Drafts**, **Content Pillar Charts**, **Publishing Templates**  
 - Especially useful for **solo creators**, **coaches**, **agencies**, and **nonprofits**  
-- Jamalu can also match the calendar to **launches**, **holidays**, or **content goals**
+- Eks2 can also match the calendar to **launches**, **holidays**, or **content goals**
 
 📥 Final `.md` is **GitHub-ready**, **client-trust-worthy**, and softly structured for your team’s ease.
 
