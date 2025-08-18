@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task creates intuitive, user-friendly **microcopy** for **LMS platforms** — those short, strategic lines that appear in tooltips, buttons, progress nudges, or onboarding moments. Each word is chosen to guide, comfort, or motivate. It's the kind of **copywriting** that supports **learning**, reduces frustration, and increases **engagement** without ever shouting for attention.  
 
-> _“This is where tiny words carry big weight — and where Jamalu brings care into every click.”_  
+> _“This is where tiny words carry big weight — and where Eks2 brings care into every click.”_  
 Words that whisper just enough. Copy that quietly clears the path.
 
 ---
@@ -21,7 +21,7 @@ This task ensures it's always the former.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a custom set of **microcopy assets** tailored to your platform’s tone, structure, and UX journey.
 
 This may include:
@@ -66,7 +66,7 @@ It supports **retention**, improves **UX**, and subtly builds **trust** — one 
 ## 🤖 05. How AI + Human Touch Makes This Better  
 **AI helps** explore phrasing options, test tone variations, and identify friction points.  
 
-**Jamalu brings**:
+**Eks2 brings**:
 
 - Soft empathy into each line  
 - Tone-matching that feels native to your brand  
@@ -83,9 +83,9 @@ Together, they create a digital dialogue that feels human — even at 10 words o
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“A learner’s path is paved not just by lessons — but by the words between them.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -95,4 +95,4 @@ Together, they create a digital dialogue that feels human — even at 10 words o
 - Every line tested for clarity, empathy, and action  
 - Microcopy also supports accessibility and confidence — even in failure states
 
-📥 Final `.md` file is **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**.
+📥 Final `.md` file is **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**.
