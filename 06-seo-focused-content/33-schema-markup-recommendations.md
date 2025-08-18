@@ -5,7 +5,7 @@
 This task provides thoughtful, human-supported **schema markup recommendations** — using structured **JSON-LD** tags that help **search engines** better understand your content. From **FAQ pages** to **reviews**, **how-tos**, and **articles**, these tags unlock **rich snippets** and give your content the edge it deserves in **technical SEO**.  
 
 > _“This is where metadata becomes meaning — and your message stands out, even before the click.”_  
-Jamalu brings not just tags, but soul — honoring both the algorithm and the audience.
+Eks2 brings not just tags, but soul — honoring both the algorithm and the audience.
 
 ---
 
@@ -18,7 +18,7 @@ It’s a technical bridge to **clarity, discoverability**, and **semantic accura
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive:
 
 - A clear list of **recommended schema types** per content section or page  
@@ -61,7 +61,7 @@ Where **AI** assists:
 - Auto-generating **JSON-LD** syntax  
 - Suggesting based on Google’s latest supported types  
 
-Where **Jamalu** gently refines:
+Where **Eks2** gently refines:
 
 - Contextual judgment: *Is this FAQ tag useful or spammy?*  
 - Tone-matching: Ensuring tags support human experience  
@@ -78,9 +78,9 @@ We don’t tag for clicks. We tag for clarity.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“The quietest words — when well-structured — echo the farthest.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -88,6 +88,6 @@ We don’t tag for clicks. We tag for clarity.
 🎁 **Extra Notes**  
 - Perfect for: `**Technical SEO**, **Content Visibility**, **Rich Snippets**, **Google Discover**`  
 - Can be paired with: **Content Audit**, **On-Page SEO**, or **FAQ Writing**  
-- Optional Add-on: Jamalu can collaborate with your dev team or embed directly into draft HTML
+- Optional Add-on: Eks2 can collaborate with your dev team or embed directly into draft HTML
 
-📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**
