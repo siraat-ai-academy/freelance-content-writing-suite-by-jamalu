@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This offering centers on writing that breathes **gentleness**, **reverence**, and **spiritual clarity** into every word. Rooted in **faith**, attuned to **inner guidance**, and crafted with humility, this work nurtures the soul without ever preaching. From quiet **devotionals** to reflective **blog entries**, the tone stays grounded in warmth, simplicity, and sincerity — perfect for **faith-based communities**, wellness brands, or spiritual collectives.
 
-> _“This is where the sacred and the simple meet — where Jamalu becomes a gentle guide, not a loud voice. Just soft words pointing inward.”_
+> _“This is where the sacred and the simple meet — where Eks2 becomes a gentle guide, not a loud voice. Just soft words pointing inward.”_
 
 ---
 
@@ -17,8 +17,8 @@ An invitation, not an instruction.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
-Jamalu will craft:
+## 💼 02. What Eks2 Will Do for You  
+Eks2 will craft:
 - 1–2 pieces of **faith-rooted writing** (typically 400–800 words each)  
 - A tone that’s **gentle**, **non-judgmental**, and **encouraging**  
 - Scripturally aligned (if requested) or universally spiritual in nature  
@@ -54,12 +54,12 @@ This kind of writing:
 - Soft outlines for devotionals or spiritual reflections  
 - Ensuring clear structure
 
-**Jamalu Adds:**  
+**Eks2 Adds:**  
 - Soul-deep tone shaping  
 - Sensitivity to diverse faith expressions  
 - Rhythmic writing that feels more **prayerful than promotional**
 
-AI starts the whisper. Jamalu makes it worthy of the soul.
+AI starts the whisper. Eks2 makes it worthy of the soul.
 
 ---
 
@@ -70,9 +70,9 @@ AI starts the whisper. Jamalu makes it worthy of the soul.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Sometimes, the holiest thing you can do is speak gently into silence.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -83,4 +83,4 @@ AI starts the whisper. Jamalu makes it worthy of the soul.
 - No spiritual jargon unless desired  
 - Focus remains on **upliftment**, **stillness**, and **gentle encouragement**
 
-📥 Final `.md` file is **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**.
+📥 Final `.md` file is **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**.
