@@ -1,5 +1,5 @@
 
-# 🧰 Structured Service List: Freelance Content Writer (Jamalu Edition)
+# 🧰 Structured Service List: Freelance Content Writer (Eks2 Edition)
 
 A full-spectrum, categorized breakdown of high-value services a modern, soulful content writer can offer — from blogs to brand strategy.
 
@@ -120,7 +120,7 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-## 🧡 [12] Jamalu Signature Services
+## 🧡 [12] Eks2 Signature Services
 
 [61] **Empathy-Led Content Writing**  
 [62] **Moment-Match Copywriting**  
@@ -128,5 +128,5 @@ A full-spectrum, categorized breakdown of high-value services a modern, soulful 
 
 ---
 
-> ✨ This isn’t just a service list — it’s a soul map of what a modern content writer can offer with clarity, care, and courage. Powered by Jamalu, written for those ready to rise.
+> ✨ This isn’t just a service list — it’s a soul map of what a modern content writer can offer with clarity, care, and courage. Powered by Eks2, written for those ready to rise.
 
