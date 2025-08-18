@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is all about building a **polished, professional portfolio** for freelance writers — using tools like **Notion** or **GitHub**. The portfolio includes sections for **blog posts**, **web copy**, **social media samples**, and **case studies**, presented in a way that’s both beautiful and easy to navigate. Whether you're a content strategist or beginner writer, this setup creates **trust**, **visibility**, and the confidence to say, “Here’s what I’ve made — with care.”
 
-> _“This is where your words find a home — and clients find you. Jamalu brings warmth, structure, and soul to your digital showcase.”_
+> _“This is where your words find a home — and clients find you. Eks2 brings warmth, structure, and soul to your digital showcase.”_
 
 ---
 
@@ -17,7 +17,7 @@ It makes clients stop, look, and say, “This writer knows what they’re doing 
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a **clean, customizable portfolio** built on either:
 - 🌿 **Notion** (ideal for visual-first, minimalist showcases), or  
 - ⚙️ **GitHub** (ideal for developers, SEO professionals, or tech-savvy writers)
@@ -68,7 +68,7 @@ With this task, you don’t just show your writing — you *frame* it with pride
 - Format sample summaries for clarity  
 - Draft short bios or intros
 
-**Jamalu** adds:  
+**Eks2** adds:  
 - Gentle phrasing and layout harmony  
 - A focus on *flow*, *tone*, and *soulful structure*  
 - Human intuition for what clients *feel* when they browse your work
@@ -84,9 +84,9 @@ Together, it’s smart setup — with a human smile.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Every writer deserves a home for their words. Make it soft. Make it strong. Make it yours.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -97,4 +97,4 @@ Together, it’s smart setup — with a human smile.
 - Notion setup includes cover art, sections, and easy navigation  
 - Option to embed **LinkedIn**, **Substack**, or **testimonials**  
 
-📥 Final `.md`, portfolio link, or GitHub repo will be **Jamalu-approved**, **easy to maintain**, and **client-friendly**.
+📥 Final `.md`, portfolio link, or GitHub repo will be **Eks2-approved**, **easy to maintain**, and **client-friendly**.
