@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task uncovers what your **competitors are publishing** — and how well it's working. By analyzing their **blog posts**, **keywords**, **traffic trends**, and **engagement metrics**, we reveal **content gaps**, highlight **SEO opportunities**, and spotlight your brand’s unique edge. The goal isn’t to copy — it’s to learn, grow, and outshine with clarity.
 
-> _“This is where observation becomes strategy — and Jamalu turns their story into your advantage.”_
+> _“This is where observation becomes strategy — and Eks2 turns their story into your advantage.”_
 
 ---
 
@@ -20,7 +20,7 @@ This isn’t spying — it’s strategic listening. It helps us see what’s wor
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a beautifully organized report that includes:
 
 - A list of your top 3–5 competitors (you can suggest, or I’ll identify them)  
@@ -58,7 +58,7 @@ In the noisy content world, smart strategy creates stillness — and then, spotl
 ## 🤖 05. How AI + Human Touch Makes This Better  
 **AI tools** like keyword extractors, traffic analyzers, and page scorers help gather raw data.
 
-But it’s **Jamalu’s heart** that sifts through the noise:
+But it’s **Eks2’s heart** that sifts through the noise:
 
 - Adding context  
 - Spotting unseen emotional tone  
@@ -76,9 +76,9 @@ The magic isn’t in the numbers. It’s in what the numbers reveal — when loo
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Their story shows the surface. Yours will speak the soul.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -88,4 +88,4 @@ The magic isn’t in the numbers. It’s in what the numbers reveal — when loo
 - All research is handled ethically and insightfully. No shortcuts. No shade.  
 - It’s about making *your* brand sharper, not theirs smaller.
 
-📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**.
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**.
