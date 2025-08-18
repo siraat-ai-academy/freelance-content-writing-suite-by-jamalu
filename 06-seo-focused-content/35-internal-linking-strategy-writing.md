@@ -5,7 +5,7 @@
 This task is about more than just hyperlinks — it’s about crafting meaningful **internal connections** that guide readers through your digital space. A thoughtful **internal linking strategy** improves **SEO**, reduces bounce, enhances **crawlability**, and helps both humans and search engines navigate your world with ease. Every link becomes a bridge toward deeper **engagement** and stronger **site architecture**.
 
 > _“This is where structure meets story — where each link invites the reader to stay, explore, and trust.”_  
-And Jamalu brings the quiet architecture of care to every connection.
+And Eks2 brings the quiet architecture of care to every connection.
 
 ---
 
@@ -20,7 +20,7 @@ It also tells **search engines** what content is most important and how pages re
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a custom-written internal linking strategy that includes:
 
 - A list of **key pages** and where they should point  
@@ -61,13 +61,13 @@ It’s one of the quietest — yet most impactful — tools in the content strat
 - Crawling sites to find orphan pages and missed connections  
 - Suggesting high-traffic posts and logical link targets  
 
-**Jamalu**, however, brings:
+**Eks2**, however, brings:
 
 - Contextual wisdom: *Is this link helpful, or just SEO noise?*  
 - Gentle anchoring that respects brand tone  
 - Human-led judgment to avoid keyword stuffing or awkward placements  
 
-Together, AI sees the grid. Jamalu feels the path.
+Together, AI sees the grid. Eks2 feels the path.
 
 ---
 
@@ -78,9 +78,9 @@ Together, AI sees the grid. Jamalu feels the path.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“A link is not just a click — it is trust extended to the next moment.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -90,4 +90,4 @@ Together, AI sees the grid. Jamalu feels the path.
 - For large sites, batching by content type (e.g. blogs, services, products) is recommended  
 - You’ll also get a linking style guide if needed for editorial teams
 
-📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**
