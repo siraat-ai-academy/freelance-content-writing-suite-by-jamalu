@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about writing **emotionally-resonant**, **action-focused** email copy that supports your **product launches**, **seasonal promotions**, or **special campaigns**. Each email blends **storytelling** with **strategic urgency**, and every sentence nudges readers closer to the moment that matters: clicking, buying, showing up.
 
-> _“This is where your offer meets the right words at the right time — where launch emails don’t shout, but sing. Jamalu brings not hype, but harmony — and results.”_
+> _“This is where your offer meets the right words at the right time — where launch emails don’t shout, but sing. Eks2 brings not hype, but harmony — and results.”_
 
 ---
 
@@ -17,7 +17,7 @@ No spam. No fluff. Just clear, honest **copywriting** that converts.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a **sequence of 3–5 promotional emails**, written with care, curiosity, and conversion in mind.
 
 Each email includes:  
@@ -55,7 +55,7 @@ It’s not just about a launch. It’s about a **lasting impression**.
 - Speeding up idea generation  
 - Drafting basic structures
 
-**Jamalu brings**:  
+**Eks2 brings**:  
 - Deep **empathy for the reader**  
 - Smooth, engaging **brand-aligned flow**  
 - Refined edits for voice, tone, and timing  
@@ -72,9 +72,9 @@ It’s **not just sent** — it’s *received, read, and remembered*.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Every great launch begins not with noise, but with clarity. Let the words carry what matters most.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -84,6 +84,6 @@ It’s **not just sent** — it’s *received, read, and remembered*.
 - Best paired with: **Landing Page Copy**, **Instagram Captions**, or **Post-Launch Sequences**  
 - All emails are **editable** and matched to your ESP format
 
-📥 Final `.md` file is **Jamalu-approved**, **launch-ready**, and quietly compelling.
+📥 Final `.md` file is **Eks2-approved**, **launch-ready**, and quietly compelling.
 
 ---
