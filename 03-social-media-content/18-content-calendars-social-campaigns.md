@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This offering builds a **strategic, soulful content calendar** to help your social media campaigns feel less chaotic and more aligned. Through weekly or monthly planning, we’ll map your posts, pair captions with visuals, and root everything in your **brand voice** and **marketing goals**. Ideal for anyone craving clarity, **consistency**, and more **intentional engagement** across Instagram, Facebook, LinkedIn, X, and beyond.
 
-> _“This is where scattered becomes streamlined — where your story stretches across platforms with rhythm and presence, guided by Jamalu’s thoughtful pen.”_
+> _“This is where scattered becomes streamlined — where your story stretches across platforms with rhythm and presence, guided by Eks2’s thoughtful pen.”_
 
 ---
 
@@ -16,7 +16,7 @@ A **content calendar** for social campaigns helps you post with purpose — not 
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a clear, organized **content calendar** designed around your goals, audience, and platforms. Depending on your needs, this may include:
 
 - A **weekly/monthly calendar** in Google Sheets, Notion, or Airtable  
@@ -34,7 +34,7 @@ Everything will be custom-fit — not cookie-cutter.
 Social media moves fast.  
 But your message deserves to move with **intention**, not impulse.
 
-A Jamalu-built calendar will help you:
+A Eks2-built calendar will help you:
 - Post with **clarity**, not confusion  
 - Build **consistency**, which breeds trust  
 - Align your **content with marketing goals**  
@@ -59,7 +59,7 @@ A Jamalu-built calendar will help you:
   - Hashtag research and content angle generation  
   - Trend spotting and tone analysis  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Message cohesion across time and platforms  
   - Flow, phrasing, and emotional resonance  
   - A sense of **pace**, story, and brand rhythm  
@@ -74,9 +74,9 @@ A Jamalu-built calendar will help you:
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Calendars are not cages — they’re compost. They let your ideas bloom in rhythm with the season of your message.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
