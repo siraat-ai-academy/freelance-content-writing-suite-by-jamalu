@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about writing **friendly, persuasive email copy** that re-engages customers who almost bought — but didn’t quite finish. These **abandoned cart emails** are crafted to reduce hesitation, highlight value, and offer **timely nudges** (or incentives) that recover lost revenue. They are clear, kind, and strategically optimized for **click-throughs**, **conversion**, and **completion**.
 
-> _“This is where a missed moment becomes a second chance — where thoughtful words meet hesitation with helpfulness. Jamalu brings the grace of patience, the pulse of purpose.”_
+> _“This is where a missed moment becomes a second chance — where thoughtful words meet hesitation with helpfulness. Eks2 brings the grace of patience, the pulse of purpose.”_
 
 ---
 
@@ -18,7 +18,7 @@ This kind of email bridges the gap between **browsing and buying**, and it's one
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a **series of 1–3 recovery emails**, each tuned to the emotions behind abandonment (forgetfulness, price concerns, decision delay).
 
 Each message includes:  
@@ -56,7 +56,7 @@ This is a small but mighty moment in the buyer journey — and every word matter
 - Personalization tokens and triggers  
 - Structuring logical sequences
 
-**Jamalu contributes**:  
+**Eks2 contributes**:  
 - **Emotionally aware copy** that matches brand tone  
 - Nuance in language (not salesy, not robotic)  
 - Real-time editing for flow, warmth, and clarity  
@@ -73,9 +73,9 @@ Together, we recover not just the cart — but the connection.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Sometimes, the most powerful sale is not a push — it’s a whisper that says: come back when you’re ready.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -85,6 +85,6 @@ Together, we recover not just the cart — but the connection.
 - Can include merge tags for product name, price, and first name  
 - Works beautifully with: **Welcome Sequences**, **Product Pages**, or **Launch Emails**
 
-📥 Final `.md` file is **GitHub-ready**, **Jamalu-approved**, and gentle in all the right ways.
+📥 Final `.md` file is **GitHub-ready**, **Eks2-approved**, and gentle in all the right ways.
 
 ---
