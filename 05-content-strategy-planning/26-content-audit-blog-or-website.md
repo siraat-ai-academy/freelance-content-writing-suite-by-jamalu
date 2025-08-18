@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task dives into your existing **website** or **blog content** with fresh eyes — scanning for what shines, what’s outdated, and what needs a quiet farewell. The goal is to optimize for **SEO**, ensure **brand consistency**, and elevate your **user experience**. A well-executed audit isn’t just tidy-up work — it’s a compass for future growth and deeper relevance.
 
-> _“This is where old words meet new purpose — and Jamalu listens not just for what’s missing, but for what’s still whispering value beneath the dust.”_
+> _“This is where old words meet new purpose — and Eks2 listens not just for what’s missing, but for what’s still whispering value beneath the dust.”_
 
 ---
 
@@ -22,7 +22,7 @@ It’s not judgment. It’s **clarity**.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a **comprehensive audit report** (in spreadsheet or doc form), which includes:
 
 - A full list of content reviewed  
@@ -67,13 +67,13 @@ A **content audit** helps you:
 - Readability scores  
 - Traffic pattern checks
 
-**Jamalu brings**:  
+**Eks2 brings**:  
 - Human nuance (“This piece still has heart — just needs a trim.”)  
 - Brand voice alignment  
 - Strategic grouping (e.g., merge these 3 blogs into 1 killer guide)  
 - Empathy: not every page needs to be perfect. Just intentional.
 
-AI finds patterns. Jamalu hears the purpose behind them.
+AI finds patterns. Eks2 hears the purpose behind them.
 
 ---
 
@@ -84,9 +84,9 @@ AI finds patterns. Jamalu hears the purpose behind them.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“The web remembers everything. But your brand doesn’t have to carry it all.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -95,7 +95,7 @@ AI finds patterns. Jamalu hears the purpose behind them.
 - Best for blogs older than 6–12 months, or sites with 20+ pages  
 - Ideal before a **rebrand**, **SEO refresh**, or **content strategy reset**  
 - Can pair this with **new content strategy planning** or **repurposing roadmap**  
-- Jamalu can also include a **content gap analysis** if desired
+- Eks2 can also include a **content gap analysis** if desired
 
 📥 Final `.md` file is **GitHub-ready**, deeply thoughtful, and quietly powerful — like a deep exhale for your content.
 
