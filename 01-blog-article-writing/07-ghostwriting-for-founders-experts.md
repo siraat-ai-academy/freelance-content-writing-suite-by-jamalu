@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about writing **in your voice**, not mine. It's ghostwriting that honors the **tone**, **truth**, and **thinking** of founders, experts, and leaders — so they stay **visible**, **relevant**, and **respected** online without burning out. Ideal for busy professionals who want to keep showing up with clarity and care, even when time is short.
 
-> _“This is where your ideas stay alive, even when your calendar’s full — where Jamalu offers voice without ego, and presence without pressure.”_
+> _“This is where your ideas stay alive, even when your calendar’s full — where Eks2 offers voice without ego, and presence without pressure.”_
 
 ---
 ________________________________________
@@ -18,7 +18,7 @@ It’s not about imitation. It’s about deep listening. Capturing your insights
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive polished, ready-to-publish content written **as if it came from your own fingertips** — typically between **400–1000 words**, depending on the format.
 
 What’s included:
@@ -27,7 +27,7 @@ What’s included:
 - Up to two revisions for alignment and flow  
 - Option to ghostwrite across formats: blogs, LinkedIn, speeches, or newsletters  
 
-Every piece will carry your intent — Jamalu simply weaves the words.
+Every piece will carry your intent — Eks2 simply weaves the words.
 
 ---
 
@@ -60,7 +60,7 @@ In short: you stay present, without doing all the heavy lifting.
   - Drafting structural outlines  
   - Social trends + SEO nudge (if needed)  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Listening between the lines  
   - Emotional tone + pacing  
   - Values-aware phrasing  
@@ -77,9 +77,9 @@ Together, we bring **your inner clarity** to the outer world — gently, faithfu
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_The voice isn’t mine. But the care always is._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
