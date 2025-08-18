@@ -22,7 +22,7 @@ No tricks. Just clean, intentional content — tuned for performance and presenc
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive:
 
 - One page (or more) of **SEO-optimized web copy**, tuned to match your brand voice  
@@ -63,7 +63,7 @@ AI tools help surface:
 - Competitor phrasing patterns  
 - Semantic variations that enhance findability  
 
-But Jamalu brings:
+But Eks2 brings:
 
 - Emotional clarity  
 - Voice balance (not too stiff, not too casual)  
@@ -80,9 +80,9 @@ We work with algorithms — but we write for *people*.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“A keyword opens the door. But it’s kindness that invites them in.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -92,4 +92,4 @@ We work with algorithms — but we write for *people*.
 - If you have a list of preferred phrases or internal pages to link, feel free to share  
 - We aim for **clarity over clutter**, and **guidance over gimmicks**
 
-📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**
