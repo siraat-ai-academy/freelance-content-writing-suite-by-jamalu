@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about transforming knowledge into **easy-to-follow steps**, **helpful tips**, or **curated lists** — making information both **readable** and **shareable**. Whether it’s a **how-to guide**, a top-10 list, or a step-by-step breakdown, these formats are beloved for their clarity and power to educate while boosting your brand’s **SEO** and **audience trust**.
 
-> _“This is where clarity becomes kindness — and your knowledge, through Jamalu’s rhythm, becomes a map in someone’s moment of confusion.”_
+> _“This is where clarity becomes kindness — and your knowledge, through Eks2’s rhythm, becomes a map in someone’s moment of confusion.”_
 
 ---
 ________________________________________
@@ -20,7 +20,7 @@ They're the breadcrumbs that guide a curious reader closer to trust.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a fully-structured piece (typically **800–1200 words**, adjustable to your audience) that may take the form of:
 - A **top 5 / top 10** list  
 - A step-by-step **how-to walkthrough**  
@@ -65,7 +65,7 @@ In the online ecosystem, people follow those who help them make sense of things.
   - Title variations  
   - Content summarization  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Flow and pacing that feels natural  
   - Emotional intelligence in tone  
   - Real-world relevance and subtle storytelling  
@@ -82,9 +82,9 @@ Together, we use tools to work *smarter*, but soul to write *truer*.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_Even bullet points can breathe, when written with care._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
