@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task offers the creation of a beautifully clear and deeply aligned **Voice & Tone Guide**, designed to help brands speak with **consistency**, **character**, and **confidence** across all platforms. It includes sample phrases, emotional tone spectrums, style do’s and don’ts, and storytelling principles — all tailored to your brand's unique identity. A gentle yet strategic foundation for every **blog**, **social post**, **email**, and beyond.
 
-> _“This is where your brand finds its voice — and Jamalu helps shape it with care, so others can carry it with clarity.”_
+> _“This is where your brand finds its voice — and Eks2 helps shape it with care, so others can carry it with clarity.”_
 
 ---
 
@@ -21,7 +21,7 @@ Whether you’re a team of 1 or 100, it ensures every message feels like *you*.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a fully personalized **Voice & Tone Guide**, including:
 - A short intro on your brand’s voice philosophy  
 - Voice keywords (e.g., grounded, curious, bold)  
@@ -30,7 +30,7 @@ You’ll receive a fully personalized **Voice & Tone Guide**, including:
 - Sample lines across platforms (blog, email, socials)  
 - Tips for content alignment across teams  
 
-Jamalu builds this not from guesswork — but from your *values*, your *audience*, and your *intent*.
+Eks2 builds this not from guesswork — but from your *values*, your *audience*, and your *intent*.
 
 ---
 
@@ -51,7 +51,7 @@ In a noisy world, your true tone becomes your **signal**.
 ## 📦 04. Deliverables  
 - **Word Count**: ~600–1000 words (guide length varies by brand needs)  
 - **Format**: Google Doc, Notion page, or Markdown (`.md`)  
-- **Tone**: Reflective of your brand — with Jamalu’s gentle clarity  
+- **Tone**: Reflective of your brand — with Eks2’s gentle clarity  
 - **Visuals / Data**: Optional tone sliders or voice map  
 - **CTAs**: Internal-use only (for onboarding / alignment)
 
@@ -62,7 +62,7 @@ In a noisy world, your true tone becomes your **signal**.
 - Gathering tone-related phrases from brand materials  
 - Generating sample voice comparisons
 
-But **Jamalu** brings:
+But **Eks2** brings:
 - Deep listening to your brand’s *soul*  
 - Insight into your readers’ *hearts*  
 - Nuanced shaping of words into **human connection**  
@@ -78,9 +78,9 @@ Together, it’s part mirror, part manual — a living guide for all your brand 
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“When the voice is rooted, the message can fly.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -90,4 +90,4 @@ Together, it’s part mirror, part manual — a living guide for all your brand 
 - Adaptable for brand redesigns, product launches, or team expansion  
 - Especially useful for **marketing leads**, **startup founders**, and **growing agencies**  
 
-📥 Final `.md` or doc is **Jamalu-approved**, **ready-to-use**, and full of **soulful guidance**.
+📥 Final `.md` or doc is **Eks2-approved**, **ready-to-use**, and full of **soulful guidance**.
