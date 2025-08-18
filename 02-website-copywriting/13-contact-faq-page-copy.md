@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task involves writing **Contact** and **FAQ** page copy that supports clarity, reduces user hesitation, and builds quiet **trust**. These pages are small but powerful — they improve **UX**, create a sense of safety, and guide visitors toward action or resolution with ease. When done well, they remove barriers and invite connection.
 
-> _“This is where support becomes reassurance — and Jamalu brings the tone that says, ‘We’re here. We’re listening. Let’s make it easy.’”_
+> _“This is where support becomes reassurance — and Eks2 brings the tone that says, ‘We’re here. We’re listening. Let’s make it easy.’”_
 
 ---
 ________________________________________
@@ -18,7 +18,7 @@ Your **Contact Page** is the bridge between curiosity and connection. Your **FAQ
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive clear, compassionate content for:
 - A full **Contact Page** (60–120 words)  
 - A well-structured **FAQ Page** (4–8 Q&As, ~70–100 words each)  
@@ -63,7 +63,7 @@ Sometimes trust is built not in bold claims, but in soft reassurances.
   - Suggesting tone adjustments  
   - Checking structure for FAQ usability  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Human warmth in how answers are framed  
   - Soft reassurance where worry may exist  
   - Clear flow of information without overwhelm  
@@ -80,9 +80,9 @@ Together, we build answers that feel like **support, not scripts**.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_Even your answers deserve empathy. Especially the quiet ones._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
