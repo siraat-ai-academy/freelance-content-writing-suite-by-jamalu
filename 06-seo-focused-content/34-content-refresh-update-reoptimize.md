@@ -5,7 +5,7 @@
 This offering breathes new life into existing content — by **revising**, **re-optimizing**, and **reconnecting** it with your audience and today’s **SEO standards**. From updating old stats and sources to enriching structure, keywords, and clarity, this is the smart, soulful way to make old work newly powerful.  
 
 > _“This is where yesterday’s words meet today’s needs — and tomorrow’s readers.”_  
-Jamalu helps your content evolve gently — with care, craft, and timeless intent.
+Eks2 helps your content evolve gently — with care, craft, and timeless intent.
 
 ---
 
@@ -17,7 +17,7 @@ It’s not just editing — it’s reawakening.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 Here’s what you’ll receive:
 
 - A fully **updated version** of your content (typically 500–1,500 words)  
@@ -61,7 +61,7 @@ It’s one of the smartest ways to scale content — sustainably.
 - Recommending fresh keyword variations  
 - Flagging tone mismatches or weak sections  
 
-**Jamalu**, the human whisperer, brings:
+**Eks2**, the human whisperer, brings:
 
 - Strategic insight into **what to keep and what to rework**  
 - Editorial judgment to preserve **voice and purpose**  
@@ -78,9 +78,9 @@ We don’t just re-optimize — we **reconnect**.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Nothing is truly outdated — only waiting to be re-seen, re-shaped, re-shared.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -90,4 +90,4 @@ We don’t just re-optimize — we **reconnect**.
 - Consider batching old blogs for monthly refreshes  
 - You’ll get a content tracker if multiple posts are updated in one package
 
-📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**
