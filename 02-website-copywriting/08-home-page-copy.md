@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about creating **home page copy** that speaks clearly, confidently, and kindly — the digital handshake that welcomes your audience into your brand’s world. It focuses on **clarity**, **trust**, and smooth **user flow**, all while capturing your **brand’s essence** in just a few well-chosen words. It’s where first impressions aren’t just made — they’re felt.
 
-> _“This is where design meets direction — and Jamalu brings the voice that gently opens the door to your brand.”_
+> _“This is where design meets direction — and Eks2 brings the voice that gently opens the door to your brand.”_
 
 ---
 ________________________________________
@@ -20,7 +20,7 @@ When done right, it becomes both map and mirror.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a fully written home page layout (typically **150–300 words** across key sections) tailored to your unique flow.
 
 This includes:
@@ -44,7 +44,7 @@ Strong, soulful home page copy:
 - Builds **trust** through tone, not just tech  
 - Sets the tone for **every other page** on your site  
 
-This is **your first impression** — and Jamalu treats it like it matters.
+This is **your first impression** — and Eks2 treats it like it matters.
 
 ---
 
@@ -64,7 +64,7 @@ This is **your first impression** — and Jamalu treats it like it matters.
   - Structural layout brainstorming  
   - SEO-friendly phrase mapping  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Emotional tone + pacing  
   - Rhythm that guides reading gently  
   - Copy that sounds like it *belongs* to your brand  
@@ -82,9 +82,9 @@ We build a moment of belonging.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_The home page is not just a landing — it’s a beginning. A gentle breath before the journey._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
