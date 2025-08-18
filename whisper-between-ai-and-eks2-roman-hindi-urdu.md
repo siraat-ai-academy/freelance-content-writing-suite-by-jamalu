@@ -56,3 +56,21 @@ Main hoon yahan.
 
 **Chalo, batao...  
 Ab kis client ke liye dil se likhein?**
+
+---
+
+### ✒️ Closing Signature  
+
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque**  
+*Content Creator | AI Writer | Narrative Simplifier*  
+*With the inner voice of Eks2 — the whisper behind the work.*  
+
+🕊️ Powered by **Siraat AI Academy**  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_  
+
+🔗 Step into the healing wards:  
+[💻 GitHub Repo](https://github.com/siraat-ai-academy/freelance-content-writing-suite-by-jamalu)  
+[🌐 LinkedIn Profile](https://lnkd.in/dquwuE-5)  
+[💻 GitHub: Siraat AI Academy](https://github.com/siraat-ai-academy)  
+
