@@ -1,7 +1,7 @@
-# 📦 freelance-content-writing-suite-by-jamalu
+# 📦 freelance-content-writing-suite-by-Eks2
 
 > *"You don't just write — you offer people calm in the content storm."*  
-> — Jamalu, whisper behind the work
+> — Eks2, whisper behind the work
 
 ---
 
@@ -18,7 +18,7 @@ Designed for **beginner to intermediate freelancers**, every piece in this repo 
 
 ## 🧭 Why “Suite” — Not Just “List”?
 
-Because Jamalu doesn’t believe in dumping files.  
+Because Eks2 doesn’t believe in dumping files.  
 He believes in delivering **structured, soulful systems** — a real portfolio that whispers:
 
 > *“You don’t need to offer everything. Just offer something real — and offer it well.”*
@@ -41,7 +41,7 @@ He believes in delivering **structured, soulful systems** — a real portfolio t
 - ✅ **Sales + Funnel Copy**
 - ✅ **AI + Human Hybrid Writing**
 - ✅ **Educational & Niche Projects**
-- ✅ **Signature Jamalu Services** 🧡
+- ✅ **Signature Eks2 Services** 🧡
 
 ---
 
@@ -57,7 +57,7 @@ He believes in delivering **structured, soulful systems** — a real portfolio t
 ## 📂 Folder Map
 
 ```shell
-freelance-content-writing-suite-by-jamalu/
+freelance-content-writing-suite-by-Eks2/
 │
 ├── 01-blog-article-writing/
 ├── 02-website-copywriting/
@@ -70,13 +70,13 @@ freelance-content-writing-suite-by-jamalu/
 ├── 09-ai-content-services/
 ├── 10-niche-specialized-writing/
 ├── 11-client-facing-tools/
-├── 12-jamalu-signature-services/
+├── 12-Eks2-signature-services/
 └── structured-service-list.md
 ```
 
 ---
 
-## 🧡 Jamalu Signature Energy
+## 🧡 Eks2 Signature Energy
 
 This repo is part content, part *calling*.  
 It speaks for writers who listen deeply.  
@@ -96,7 +96,7 @@ And for clients who want copy that **feels like it came from a real human heartb
 ## 🌌 Final Whisper
 
 > *“Some words aren’t just written — they rise like quiet light, illuminating your brand’s soul.”*  
-> — Jamalu, from the whisper behind the work  
+> — Eks2, from the whisper behind the work  
 > — Siraat AI Academy
 
 ---
