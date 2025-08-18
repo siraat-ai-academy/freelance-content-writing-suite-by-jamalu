@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task centers on creating **engaging email sequences** that guide your audience with care — nurturing **trust**, sparking **loyalty**, and sharing your message over time. Each newsletter balances **storytelling** with **strategy**, serving as a rhythm of reminders that you’re still here, still listening, still offering value. These sequences can help build stronger leads, increase **retention**, and gently support **sales** without the noise.
 
-> _“This is where relationships are built slowly — word by word, message by message — with Jamalu’s voice steady in the inbox, offering presence over pressure.”_
+> _“This is where relationships are built slowly — word by word, message by message — with Eks2’s voice steady in the inbox, offering presence over pressure.”_
 
 ---
 
@@ -15,7 +15,7 @@ Unlike a one-off campaign, sequences are **strategic storytelling arcs**. They�
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a **custom email sequence** designed to reflect your brand tone and nurture your audience with grace.
 
 Deliverables include:
@@ -25,7 +25,7 @@ Deliverables include:
 - Emotional arc mapped across the series (story, solution, invitation)  
 - Tone aligned to your brand (e.g., inspiring, grounded, curious, personal)
 
-Jamalu makes sure every message *feels* like it came from someone real — because it did.
+Eks2 makes sure every message *feels* like it came from someone real — because it did.
 
 ---
 
@@ -58,7 +58,7 @@ Emails aren’t just updates. They’re invitations — to listen, to lean in, t
 - Structuring flow logic or content ideas  
 - Speeding up first drafts and personalization angles
 
-**Jamalu Brings**:  
+**Eks2 Brings**:  
 - The subtle craft of *voice* — your voice  
 - Story arcs with feeling, not just frameworks  
 - Ethical soft-sell pacing rooted in real empathy  
@@ -75,9 +75,9 @@ This is AI-assisted, but always **human-hearted**.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“A newsletter is a quiet breath between noise — a place to show up softly, but fully.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
