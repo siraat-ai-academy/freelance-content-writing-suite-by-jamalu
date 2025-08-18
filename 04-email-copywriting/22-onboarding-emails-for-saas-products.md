@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task focuses on designing **onboarding email sequences** that gently guide new users into your product’s value. Whether for a **SaaS tool** or **digital product**, these emails balance clear instruction with a **warm welcome tone**, helping users understand features, build habits, and stay engaged. Done well, this nurtures trust and reduces churn — while making your users feel supported every step of the way.
 
-> _“This is where clarity meets kindness — where the first emails feel like an open door, not a checklist. Jamalu brings presence and precision to help your product feel more like home.”_
+> _“This is where clarity meets kindness — where the first emails feel like an open door, not a checklist. Eks2 brings presence and precision to help your product feel more like home.”_
 
 ---
 
@@ -17,7 +17,7 @@ The goal? Help users feel **capable**, not confused.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a fully mapped onboarding email flow — crafted with the same care you give your product:
 
 - **5–7 step email sequence**  
@@ -60,7 +60,7 @@ This is your moment to **make users feel seen, supported, and smart** — and th
 - Summarizing technical features clearly  
 - Subject line A/B testing suggestions
 
-**Jamalu brings**:  
+**Eks2 brings**:  
 - Real-user empathy  
 - Message timing intuition  
 - Voice-matching for brand tone  
@@ -77,9 +77,9 @@ Together, it's **smart onboarding** with a human smile.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“An invitation is stronger than instruction — and kinder too. Help them feel capable, and they will stay.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -89,6 +89,6 @@ Together, it's **smart onboarding** with a human smile.
 - Best paired with: **Product Launch Copy**, **Help Center Writing**, or **FAQ Page Revamp**  
 - Delivery includes a suggested **send schedule** and **subject line tracker**
 
-📥 Final `.md` is client-trustworthy, user-friendly, and deeply **Jamalu-approved**.
+📥 Final `.md` is client-trustworthy, user-friendly, and deeply **Eks2-approved**.
 
 ---
