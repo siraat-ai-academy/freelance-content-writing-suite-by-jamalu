@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This offering creates clear, role-friendly **Content SOPs** — detailed documents that guide every step of your **content creation process**, from **research**, to **drafting**, to **publishing**. Ideal for **freelancers**, **agencies**, and **in-house teams**, these SOPs include **templates**, **checklists**, and **role-based responsibilities**. It’s structure with soul — designed to bring ease, alignment, and long-term scalability.
 
-> _“This is where clarity becomes your content compass — and Jamalu helps draw the map, with rhythm and reliability.”_
+> _“This is where clarity becomes your content compass — and Eks2 helps draw the map, with rhythm and reliability.”_
 
 ---
 
@@ -17,7 +17,7 @@ No more second-guessing. Just **streamlined creativity**.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a complete set of **Content Creation SOPs**, customized to your brand’s workflow and voice. This may include:
 - Overview of your **content pipeline**  
 - Step-by-step guides for each phase: ideation, outline, writing, editing, and posting  
@@ -57,7 +57,7 @@ Efficiency is not the opposite of creativity — it is the **canvas for it**.
 - Analyzing best practices across industries  
 - Generating draft workflows from input
 
-But **Jamalu** brings:
+But **Eks2** brings:
 - Human intuition to refine for your *brand culture*  
 - Soft guidance that supports *team behavior*, not just task flow  
 - Gentle prompts that make SOPs feel *useful*, not bureaucratic  
@@ -73,9 +73,9 @@ Together, this creates systems that breathe — and work beautifully.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Consistency is not confinement — it’s the quiet rhythm that lets creativity sing.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
