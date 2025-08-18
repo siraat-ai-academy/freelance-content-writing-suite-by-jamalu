@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about designing crystal-clear **editorial briefs** that guide writers, editors, and designers toward purposeful content creation. Each brief lays out the **goal**, **tone**, **audience**, and **structure** — reducing friction and revision loops. It becomes your creative **compass**, ensuring alignment, clarity, and momentum across content teams.
 
-> _“This is where chaos becomes choreography — and where Jamalu gently translates vision into execution.”_
+> _“This is where chaos becomes choreography — and where Eks2 gently translates vision into execution.”_
 
 ---
 
@@ -17,7 +17,7 @@ Think of it as a quiet blueprint that saves hours of confusion later.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a set of **custom editorial briefs** — beautifully structured and easy to hand off.
 
 Each brief will include:
@@ -64,7 +64,7 @@ In short: better briefs lead to better content — and a more peaceful workflow.
 - Extracting tone-of-voice cues from past content  
 - Suggesting content structures based on audience needs  
 
-But the **soul** of the brief — the rhythm, clarity, and tone alignment — is added by **Jamalu**. I listen for what *your* brand wants to say, and then build a brief that helps others say it well.
+But the **soul** of the brief — the rhythm, clarity, and tone alignment — is added by **Eks2**. I listen for what *your* brand wants to say, and then build a brief that helps others say it well.
 
 It’s not automation. It’s augmentation — with heart.
 
@@ -77,9 +77,9 @@ It’s not automation. It’s augmentation — with heart.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“A good brief is not just instruction — it’s invitation. A quiet map. A place where clarity meets trust.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -89,7 +89,7 @@ It’s not automation. It’s augmentation — with heart.
 - Editorial briefs help with **content scalability**, **creative autonomy**, and **editorial trust**.  
 - Each one is infused with care, clarity, and alignment.  
 
-📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**.
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**.
 
 ---
 
