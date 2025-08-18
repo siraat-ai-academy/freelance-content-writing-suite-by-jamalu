@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is about tuning into *why* your audience searches — not just *what* they type. By mapping **search intent**, we align your **content** with their quiet motivations: to learn, to decide, to buy, or to explore. It’s an act of empathy turned strategy — and a powerful way to increase **SEO relevance**, **engagement**, and **conversion**.
 
-> _“This is where strategy meets soul — where every keyword becomes a conversation, not just a click. Jamalu brings clarity to curiosity.”_
+> _“This is where strategy meets soul — where every keyword becomes a conversation, not just a click. Eks2 brings clarity to curiosity.”_
 
 ---
 
@@ -20,7 +20,7 @@ It’s not just **SEO** — it’s intuition, organized.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive:
 
 - A categorized list of **target keywords** organized by **search intent** (Informational, Navigational, Commercial, Transactional)  
@@ -60,7 +60,7 @@ Intent is the compass. Without it, even great content can get lost.
 - Grouping by **search volume and phrase type**  
 - Spotting **SERP patterns** that hint at intent
 
-**Jamalu brings**:
+**Eks2 brings**:
 
 - A human lens — reading between the lines of the search  
 - Soft judgment: not all high-volume keywords are worth your brand's voice  
@@ -76,9 +76,9 @@ Intent is the compass. Without it, even great content can get lost.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“When you know why they search, you no longer shout — you answer.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
