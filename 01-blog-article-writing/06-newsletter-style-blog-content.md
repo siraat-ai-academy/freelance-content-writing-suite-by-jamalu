@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task focuses on creating **newsletter-style blog content** — writing that feels like a warm letter, a curated note from a trusted voice. These posts blend **storytelling**, insight, and relevance, crafted to keep your audience **engaged**, **informed**, and **emotionally connected** to your brand. It's a soft-sell, high-trust form of **content marketing** — intimate, useful, and human.
 
-> _“This is where content becomes conversation — where Jamalu turns rhythm into relationship, and your brand into a welcome voice in someone’s inbox or feed.”_
+> _“This is where content becomes conversation — where Eks2 turns rhythm into relationship, and your brand into a welcome voice in someone’s inbox or feed.”_
 
 ---
 ________________________________________
@@ -21,7 +21,7 @@ It’s a letter with a purpose, a mirror with a message.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a fully written blog post (typically **700–1100 words**) that feels more like a **shared note** than a sales pitch.
 
 Expect:
@@ -63,7 +63,7 @@ It’s where **engagement** meets **ease**, and where **trust is grown over time
   - Story prompts and outline ideas  
   - Proofing for clarity and flow  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Emotional nuance and reader empathy  
   - Soft rhythm and soul in the storytelling  
   - Strategic alignment with your brand’s bigger message  
@@ -80,9 +80,9 @@ This is **human-first writing**, tech-supported — never templated.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_A blog can sell, sure. But sometimes, it just needs to sit beside someone and say — 'you’re not alone.'_”  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
