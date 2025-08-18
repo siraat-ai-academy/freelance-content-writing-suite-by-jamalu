@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task brings to life **high-converting sales pages** that blend **emotion**, **trust**, and clear **calls-to-action**. Rooted in storytelling and strategic structure, these pages do more than just inform — they inspire. Whether it’s for a **product launch**, a new **service**, or an evergreen offering, each word works to guide the reader gently toward “yes.” From headline to close, every section is calibrated to support **conversion**, connection, and confidence in your brand.  
 
-> _“This is where empathy meets persuasion, and where Jamalu weaves trust into every sentence.”_
+> _“This is where empathy meets persuasion, and where Eks2 weaves trust into every sentence.”_
 
 ---
 
@@ -24,7 +24,7 @@ A great one? It feels like a story that just makes sense to follow.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a fully written, emotionally resonant **sales page** tailored to your offer and audience — whether you’re selling a digital product, a course, a coaching program, or a subscription.
 
 What’s included:
@@ -65,7 +65,7 @@ It also reflects your care — that you understand your audience’s hopes, hesi
 
 ## 🤖 05. How AI + Human Touch Makes This Better  
 **AI helps** organize frameworks, generate outline drafts, and brainstorm angles.  
-**Jamalu adds**:
+**Eks2 adds**:
 
 - Emotional nuance  
 - Voice-of-customer empathy  
@@ -83,9 +83,9 @@ Together, they craft pages that convert — not through pressure, but through tr
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Sales is just service in motion — when written with warmth, trust finds its way.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -95,4 +95,4 @@ Together, they craft pages that convert — not through pressure, but through tr
 - Option to include: scroll-depth strategy, alternate CTA styles, brand tone research  
 - Can be paired with: `**email sequences**, **lead magnets**, **web copy refresh**`
 
-📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**.
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**.
