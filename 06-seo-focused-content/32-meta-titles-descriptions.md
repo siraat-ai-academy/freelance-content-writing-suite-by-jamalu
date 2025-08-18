@@ -22,7 +22,7 @@ Think of it as writing a front porch sign that says, *“Come in. This is exactl
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive:
 
 - A set of **meta titles** (under 60 characters)  
@@ -64,7 +64,7 @@ Where **AI** helps:
 - Checking **length** and **readability**  
 - Generating fast first drafts  
 
-Where **Jamalu** steps in:
+Where **Eks2** steps in:
 
 - Choosing tone with intention  
 - Editing for rhythm and resonance  
@@ -81,9 +81,9 @@ This is not about stuffing — it’s about singing.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“In a sea of links, let your message be a light.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -91,6 +91,6 @@ This is not about stuffing — it’s about singing.
 🎁 **Extra Notes**  
 - Best paired with: `**On-Page SEO**, **Search Intent Mapping**, **Content Audit**`  
 - Can be batch-created for up to 50 URLs  
-- Optional: Jamalu can create alternate A/B test versions if you wish
+- Optional: Eks2 can create alternate A/B test versions if you wish
 
-📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**
+📥 Final `.md` file will be **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**
