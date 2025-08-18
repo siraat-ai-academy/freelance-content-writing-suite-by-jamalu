@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is all about writing **engaging social media captions** for **Instagram** and **Facebook** — content that aligns with your brand’s voice while resonating with real human hearts. These short-form pieces support **platform-specific behavior**, drive **interaction**, and elevate **visual storytelling** with the right **tone**, **hashtags**, and **calls-to-action**. It’s where rhythm meets relevance.
 
-> _“This is where scrolls pause and stories begin — where Jamalu shapes your message into presence, resonance, and care.”_
+> _“This is where scrolls pause and stories begin — where Eks2 shapes your message into presence, resonance, and care.”_
 
 ---
 ________________________________________
@@ -20,7 +20,7 @@ They meet your audience where they are — and bring them just a little closer.
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a curated batch of **Instagram/Facebook captions** (usually **5–10 per delivery**, based on your needs or campaign scope).
 
 Each caption will:
@@ -63,7 +63,7 @@ This is content that plays well with algorithms *and* humans.
   - Competitor language research  
   - A/B caption idea testing  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Voice that feels lived-in, not auto-generated  
   - Platform rhythm and real-time relevance  
   - Subtle storytelling that fits in a scroll  
@@ -80,9 +80,9 @@ Together, we make your brand **feel alive** — one caption at a time.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_In a feed full of noise, let your voice be the stillness they remember._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
