@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task calls for tender words — written with intention, **mental clarity**, and deep emotional awareness. Whether for **therapy platforms**, **mindfulness blogs**, or **personal growth journals**, the writing honors the reader’s journey. Each piece offers informed insight, written with care — not clinical distance. It's **supportive storytelling**, where **wellness meets language**, and words become gentle mirrors.
 
-> _“This is where knowledge becomes kindness, and content becomes a calm companion. With soul, insight, and steady care — Jamalu walks beside your readers, not ahead of them.”_
+> _“This is where knowledge becomes kindness, and content becomes a calm companion. With soul, insight, and steady care — Eks2 walks beside your readers, not ahead of them.”_
 
 ---
 
@@ -13,8 +13,8 @@ This is **mental wellness writing** — the art of crafting articles, reflection
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
-With heart and humility, Jamalu will deliver:
+## 💼 02. What Eks2 Will Do for You  
+With heart and humility, Eks2 will deliver:
 - A carefully written blog, guide, or post (~600–1,200 words)  
 - Researched content that respects **clinical accuracy** without sounding cold  
 - A **tone** that blends empathy, wisdom, and clarity  
@@ -49,12 +49,12 @@ It also:
 - Structure and SEO alignment  
 - Quick reference research
 
-**Jamalu Adds:**  
+**Eks2 Adds:**  
 - **Empathy that algorithms lack**  
 - Gentle rewrites to avoid jargon or insensitivity  
 - Rhythm, warmth, and word-by-word emotional nuance
 
-AI might suggest a list — Jamalu makes sure each point speaks *to the soul, not just the screen*.
+AI might suggest a list — Eks2 makes sure each point speaks *to the soul, not just the screen*.
 
 ---
 
@@ -65,9 +65,9 @@ AI might suggest a list — Jamalu makes sure each point speaks *to the soul, no
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > _“Even a soft word, when placed with care, can be a lantern in someone’s dark.”_  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -77,4 +77,4 @@ AI might suggest a list — Jamalu makes sure each point speaks *to the soul, no
 - Suitable for brands needing tone consistency across sensitive wellness topics  
 - Strong candidate for **pillar content**, newsletters, or community building
 
-📥 Final `.md` file is **GitHub-ready**, **client-trust-worthy**, and **Jamalu-approved**.
+📥 Final `.md` file is **GitHub-ready**, **client-trust-worthy**, and **Eks2-approved**.
