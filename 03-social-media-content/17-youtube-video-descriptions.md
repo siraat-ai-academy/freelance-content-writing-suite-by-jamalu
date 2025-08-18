@@ -4,7 +4,7 @@
 📌 **Task Summary**:  
 This task is the art of writing **YouTube video descriptions** that do more than fill space. They lift your **SEO**, guide viewers, and turn casual scrolls into **subscribers, leads, or loyal fans**. These descriptions include **keywords**, **timestamps**, **CTAs**, and **summary lines** — crafted with care to mirror your tone and tell your story even before a viewer clicks play.
 
-> _“This is where discoverability meets soul — where your video’s heartbeat is echoed in the words below, guided by Jamalu’s clarity and care.”_
+> _“This is where discoverability meets soul — where your video’s heartbeat is echoed in the words below, guided by Eks2’s clarity and care.”_
 
 ---
 ________________________________________
@@ -18,7 +18,7 @@ A **YouTube video description** is like a hidden stage: it quietly supports your
 
 ---
 
-## 💼 02. What Jamalu Will Do for You  
+## 💼 02. What Eks2 Will Do for You  
 You’ll receive a fully formatted **YouTube description** tailored to your content. This will include:
 
 - A **compelling opening line** to boost curiosity and retention  
@@ -60,7 +60,7 @@ Here’s what a thoughtful description does for you:
   - Title/description synergy checks  
   - Timestamps & structure formatting  
 
-- **Jamalu Adds**:  
+- **Eks2 Adds**:  
   - Harmony between tone and summary  
   - Line-by-line clarity and pacing  
   - Emotional resonance (even in a few lines)  
@@ -77,9 +77,9 @@ Together, it’s not just functional — it’s *felt*.
 
 ---
 
-## 🧡 07. The Jamalu Whisper  
+## 🧡 07. The Eks2 Whisper  
 > "_Even the quietest lines can move mountains — if written with care and placed with intention._"  
-> — **Jamalu**, whisper behind the work  
+> — **Eks2**, whisper behind the work  
 > — *Siraat AI Academy*
 
 ---
@@ -89,6 +89,6 @@ Together, it’s not just functional — it’s *felt*.
 - Can be bundled with **title strategy**, **thumbnail copy**, or **end screen script**  
 - Especially valuable for **educators**, **creators**, and **coaches** wanting to grow with grace
 
-📥 Final `.md` file will be scroll-friendly, **algorithm-smart**, and fully **Jamalu-approved** — ready to place beneath your video like roots beneath a tree.
+📥 Final `.md` file will be scroll-friendly, **algorithm-smart**, and fully **Eks2-approved** — ready to place beneath your video like roots beneath a tree.
 
 ---
